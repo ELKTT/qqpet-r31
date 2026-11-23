@@ -22,6 +22,10 @@
 
 ## 安装本机服务端
 
+从 [r31 服务端下载页](https://github.com/ELKTT/qqpet-r31/releases/tag/r31) 选择 `windows-server.zip` 或 `linux-server.zip`（均为 x64）。解压到独立目录，按包内的《使用说明》手动补齐清单中的运行文件和素材。Windows 运行 `启动服务端.cmd`，Linux 运行 `./start.sh`。两个包都自带运行时，首次启动会在本机生成独立的登录证书。
+
+### 从源码运行
+
 本版本的服务地址为 `127.0.0.1`。网页和资源下载使用 HTTP 端口 `80`，社区目录使用原生 TCP 端口 `443`，登录使用 HTTPS 端口 `18443`。启动前请确认这些端口可由本机服务端监听。
 
 1. 准备 Node.js 24 和 Python 3.11 或更高版本，在含有 `start-server.mjs` 的仓库根目录打开终端。下列命令中的 `python` 在 Windows 上可用 `py -3`，在 Linux 上可用 `python3`。
