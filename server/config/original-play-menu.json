@@ -1,0 +1,93 @@
+{
+  "policy": "local-catalogue-original-command-resources",
+  "entries": [
+    {
+      "command": 25089,
+      "level": 5,
+      "name": "弹力球",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/tanliqiu00.png",
+      "sha256": "85a87b60c1ac58ceeede7897a88c068c34a89eb64c9c7186a6681097c2112da4"
+    },
+    {
+      "command": 25090,
+      "level": 1,
+      "name": "躲避老鼠",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/duolaoshu00.png",
+      "sha256": "f691fa8b583df636b426f7b9a7832c98bdb609f84a8c3164ab89886adf768f16"
+    },
+    {
+      "command": 25091,
+      "level": 5,
+      "name": "跳绳",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/tiaosheng00.png",
+      "sha256": "25547cb817389d8d115dafbc1a4b70f2cb6670dbfe23e21bc73b19b975ac917d"
+    },
+    {
+      "command": 25092,
+      "level": 5,
+      "name": "猜动作",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/guess00.png",
+      "sha256": "61b96e4d974bf8f855b4afab42878a3706cc7743b5a17777444bc3c721587d0f"
+    },
+    {
+      "command": 25093,
+      "level": 5,
+      "name": "吹泡泡",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/paopao00.png",
+      "sha256": "0dd4bc0d56092b53ce03cd77433a9d95649656f8c69926e14aa913bc24647716"
+    },
+    {
+      "gameId": 100,
+      "resource": "100ceng",
+      "level": 10,
+      "name": "100层",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/100ceng.png",
+      "sha256": "769e8cf32cea6a17d10ceac3d0bd25c0c538329dd5fd19e1b1d53a306ea9f515"
+    },
+    {
+      "command": 25095,
+      "level": 10,
+      "name": "丢丢乐",
+      "iconPath": "res/Plugins/Diudiule/QuickBar/diudiule/diudiule00.png",
+      "sha256": "2549cb92922b40dcd3ec44f33dee2bf66f2dfa18c2069f078186376ffe5bc96b"
+    },
+    {
+      "command": 25096,
+      "level": 5,
+      "name": "鱼塘",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/fish00.png",
+      "sha256": "9702b335bc9ec731827d64c00ae294af617a935146a6fb404a8690ddbf5705bb"
+    },
+    {
+      "command": 25097,
+      "level": 5,
+      "name": "农场",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/nongchang00.png",
+      "sha256": "4ce3f34bc3c207c2de169c86666ecf8a88aa546e6c5c016f7bd951087e963090"
+    },
+    {
+      "gameId": 101,
+      "resource": "followupfish13",
+      "level": 10,
+      "name": "捕鱼",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/buyu.png",
+      "sha256": "f2aaa12c2159b86776697d48686ed4f00e1ec5a4c53c951eda1bd7f031344af8"
+    },
+    {
+      "gameId": 102,
+      "resource": "followupcannon13",
+      "level": 10,
+      "name": "超级泡泡",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/chaojipaopao.png",
+      "sha256": "83c8c43da04c0dc7c0c82d630f2968f617322b278c67f48778a139f89e060d2b"
+    },
+    {
+      "gameId": 103,
+      "resource": "followupstars13",
+      "level": 10,
+      "name": "摘星星",
+      "iconPath": "res/Plugins/TickleSystem/QuickBar/zhaixingxing.png",
+      "sha256": "b885c4f4a93449244a158adbe476896ffd1116f15265c48a4ff3ccb63f8beb70"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "policy": {
+    "id": "local-timed-vip-care-v2",
+    "permanentVip": false,
+    "initialVipLevel": 0,
+    "defaultAutoCare": false,
+    "careBelowPercent": 30,
+    "careTargetPercent": 60
+  }
+}

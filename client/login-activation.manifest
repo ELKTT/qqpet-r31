@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="QQPet.LocalLogin.Launcher" version="1.0.0.0" type="win32"/>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="QQPet.Flash9d" version="9.0.0.0" type="win32"/>
+    </dependentAssembly>
+  </dependency>
+</assembly>

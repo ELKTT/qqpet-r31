@@ -1,0 +1,21 @@
+{
+  "counterPolicy": "cumulative-connected-time",
+  "onlineTimeDisplayPolicy": "session-connected-time",
+  "interactionPolicy": "native-failure-no-mutation",
+  "unknownWordHex": "5b8f82dd",
+  "initialOnlineSeconds": 0,
+  "toolbarAd": {
+    "unknownPrefixHex": "0000",
+    "unknownIdHex": "00000000"
+  },
+  "dailyTaskInfo": {
+    "noticeCount": 0,
+    "onlineGiftPrizeCount": 0,
+    "currentBonusDay": 1,
+    "unknownTag4Hex": "00000000"
+  },
+  "logout": {
+    "unknownWordHex": "00000000"
+  },
+  "serverAnimations": true
+}

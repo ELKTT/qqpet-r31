@@ -1,0 +1,1405 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "path": "/common/interact2/fish4.6/config.xml",
+      "file": "assets/fish4.6/config.xml",
+      "source": "补充/farm+fish/fish4.6/config.xml",
+      "sha256": "4115352918a5ac01dc2d08523738db8cd7a041a292241e7b2895825efbf38f8f",
+      "size": 581,
+      "contentType": "text/xml"
+    },
+    {
+      "path": "/common/interact2/fish4.6/main.swf",
+      "file": "assets/fish4.6/main.swf",
+      "source": "补充/farm+fish/fish4.6/main.swf",
+      "sha256": "2b1303825c9e2c2b40f8c5c0b670a4f4ff0009040dad158b2c861bb70c4cd2a4",
+      "size": 324062,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/bg/1.swf",
+      "file": "assets/fish4.6/res/bg/1.swf",
+      "source": "补充/farm+fish/fish4.6/res/bg/1.swf",
+      "sha256": "6c0c606a88b4b4dd7dfca93fc8bb74d7e31687dfb85f060715477307a2816caf",
+      "size": 46450,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/1.png",
+      "file": "assets/fish4.6/res/fish/1.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/1.png",
+      "sha256": "346acbf7505f3c21747990a8cd9f95472f0a5361d6bbd4f301b73ff1d2b32d96",
+      "size": 5225,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/1.swf",
+      "file": "assets/fish4.6/res/fish/1.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/1.swf",
+      "sha256": "11254cdae07ff9fcd61f0ef22cb44206cb05788df67365ceaa56d65a51d19f4c",
+      "size": 17768,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/10.png",
+      "file": "assets/fish4.6/res/fish/10.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/10.png",
+      "sha256": "8dfb338ed397809264be61adf7ac4507435c5bc1e2f3c28e03bc927c6da80ff0",
+      "size": 5406,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/10.swf",
+      "file": "assets/fish4.6/res/fish/10.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/10.swf",
+      "sha256": "eb5f9fdee0213c856402f05fd97b2b72c5688a8f543f12788bdc107069467595",
+      "size": 29376,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/11.png",
+      "file": "assets/fish4.6/res/fish/11.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/11.png",
+      "sha256": "8521597085cfab3b97c3e9e6beb0d09e161c5bc25bbe5acb7bb75904bbec475c",
+      "size": 5471,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/11.swf",
+      "file": "assets/fish4.6/res/fish/11.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/11.swf",
+      "sha256": "0d6c4544da8829f0844b46e5b742c1e528e960f7d546072f645807e909310d6d",
+      "size": 18771,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/12.png",
+      "file": "assets/fish4.6/res/fish/12.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/12.png",
+      "sha256": "fd2d997b6e2ad950a86c0bc66a0dd338847be43a9d52821f32640b178551d41a",
+      "size": 6131,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/12.swf",
+      "file": "assets/fish4.6/res/fish/12.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/12.swf",
+      "sha256": "5c6ebdd9eae3c5dcfe6257d969e8d11c50b9eb44ed5497fe2e4b83375afbe90a",
+      "size": 22519,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/13.png",
+      "file": "assets/fish4.6/res/fish/13.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/13.png",
+      "sha256": "88e8a67996e30b66969aca62c4f377c5f96801e792a0beaed067acb341bd393a",
+      "size": 5159,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/13.swf",
+      "file": "assets/fish4.6/res/fish/13.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/13.swf",
+      "sha256": "4b4c5c26429f0e163ded0660ba747c314fc7c60e17f4bba37fe6855195047caf",
+      "size": 11720,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/14.png",
+      "file": "assets/fish4.6/res/fish/14.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/14.png",
+      "sha256": "de91f397f899c3c0dcf3666e9b9bed9d7dc40e3720742e09068e213d98ab8f7e",
+      "size": 5815,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/14.swf",
+      "file": "assets/fish4.6/res/fish/14.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/14.swf",
+      "sha256": "51a6c7e147e47640d0ea431f9f6bd5ffe1fa07c322afc128a209b80d2de98e86",
+      "size": 20115,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/15.png",
+      "file": "assets/fish4.6/res/fish/15.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/15.png",
+      "sha256": "17f2cd5d11bbb9ff02a79f4ec99b64a9a4f5289b124fe6900c4e359d18f900d3",
+      "size": 5526,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/15.swf",
+      "file": "assets/fish4.6/res/fish/15.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/15.swf",
+      "sha256": "052f78978b640c3cd4e68a77ec5b9b82af2997104e37597c9b65a6812de06998",
+      "size": 20949,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/16.png",
+      "file": "assets/fish4.6/res/fish/16.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/16.png",
+      "sha256": "c25f850f67b8f51cce4fa271ca2afea74259930571ac740453ceaf28993b2f4b",
+      "size": 5767,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/16.swf",
+      "file": "assets/fish4.6/res/fish/16.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/16.swf",
+      "sha256": "8f9e6ec2373322c6ac646068d6f13a8113db79fc3252fa26269cd958007be679",
+      "size": 24710,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/17.png",
+      "file": "assets/fish4.6/res/fish/17.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/17.png",
+      "sha256": "a51efd087840380e76fab100b00d254da1692ad726fd27912adf336fb3c01f7a",
+      "size": 6026,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/17.swf",
+      "file": "assets/fish4.6/res/fish/17.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/17.swf",
+      "sha256": "2e0250c569b3e23b27414a76f3c38d3326d5279757ac37958202294c05b6f406",
+      "size": 18406,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/18.png",
+      "file": "assets/fish4.6/res/fish/18.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/18.png",
+      "sha256": "1a5141f6485530cdb34f2681dd44989457301fdd6f7575398980171c4ccd8b6b",
+      "size": 6073,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/18.swf",
+      "file": "assets/fish4.6/res/fish/18.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/18.swf",
+      "sha256": "16f3ebf0f6d849ece3dd26336a17542acffd79ba373460085d36e511501a9c1b",
+      "size": 22192,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/19.png",
+      "file": "assets/fish4.6/res/fish/19.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/19.png",
+      "sha256": "ff3b8631bcfeb10ac82ee4fb824c0ab7610e60e8ffcfb16e259b3aa56bd901fa",
+      "size": 5596,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/19.swf",
+      "file": "assets/fish4.6/res/fish/19.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/19.swf",
+      "sha256": "fa74481d764c7adaf6b53462734774ee5029269d4471a0d45cc22bb66e2c1661",
+      "size": 31303,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/2.png",
+      "file": "assets/fish4.6/res/fish/2.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/2.png",
+      "sha256": "d27d4767bf1f74b9ce336bc57492dd4719dbcbe004cc47c207e9ec3275d4436a",
+      "size": 4784,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/2.swf",
+      "file": "assets/fish4.6/res/fish/2.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/2.swf",
+      "sha256": "fb84a7905119b78c6289e61d388acf83b4773cd0332692c5e4c8e6434c0de07b",
+      "size": 17135,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/20.png",
+      "file": "assets/fish4.6/res/fish/20.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/20.png",
+      "sha256": "8fd3f7a16280345034a176e04dcb2d8b2eee383be152fb821548d883301e11a5",
+      "size": 5047,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/20.swf",
+      "file": "assets/fish4.6/res/fish/20.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/20.swf",
+      "sha256": "1347c2121f2c9cb972b2e29690df5190944e7eafa21b77ee2bc1421422cda148",
+      "size": 18462,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/21.png",
+      "file": "assets/fish4.6/res/fish/21.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/21.png",
+      "sha256": "02bd99a0c0ef20872d1adfb95f3f9d7e49cdac3403cdf958370a75dddab88ca4",
+      "size": 4789,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/21.swf",
+      "file": "assets/fish4.6/res/fish/21.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/21.swf",
+      "sha256": "ff90f32d59f20d83eb0960ed89a8d6259a1cf95e2b802031f8057afa0c3cd1b1",
+      "size": 15370,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/22.png",
+      "file": "assets/fish4.6/res/fish/22.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/22.png",
+      "sha256": "e1af1ab919b2867c3826ae523f97cde6baee7e9efc00aac7a54a520f148c2478",
+      "size": 4847,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/22.swf",
+      "file": "assets/fish4.6/res/fish/22.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/22.swf",
+      "sha256": "7030a40b2628cd82f0f779e14d72fd332fd48c65feea9e343b2a9fbe46984462",
+      "size": 13543,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/23.png",
+      "file": "assets/fish4.6/res/fish/23.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/23.png",
+      "sha256": "ca4eeca45dbfd0f613796c20629e5e8da1a9a6eaee56cbb34f4c2b1bf68512b5",
+      "size": 5285,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/23.swf",
+      "file": "assets/fish4.6/res/fish/23.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/23.swf",
+      "sha256": "266d2d51b1f5e37a1ca2e8feb6cabfe6a4852540ae7d04ee50e7d3813360f4fc",
+      "size": 17005,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/28.png",
+      "file": "assets/fish4.6/res/fish/28.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/28.png",
+      "sha256": "65f3edc10495b641400ffc6faf635af7ee78dd30e19415e4307ad5f6e6475a79",
+      "size": 5203,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/28.swf",
+      "file": "assets/fish4.6/res/fish/28.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/28.swf",
+      "sha256": "88f62d1fe01fa9df346750d6c14fcd6f493fe377d6189585cbcd0cbd9ba8a84a",
+      "size": 22335,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/29.png",
+      "file": "assets/fish4.6/res/fish/29.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/29.png",
+      "sha256": "d40c58d1e18592886400aa028238c0b931a6a266e4d68cde03e5ea8985900cf4",
+      "size": 5658,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/29.swf",
+      "file": "assets/fish4.6/res/fish/29.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/29.swf",
+      "sha256": "623bcf4cc2bf78be07e3de6a38d161183299e649094b4798b8bd89e519624d43",
+      "size": 14606,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/3.png",
+      "file": "assets/fish4.6/res/fish/3.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/3.png",
+      "sha256": "2776567e070d03dd494a7c0dca1d9fbaf8509b72588f57af08c59daa709e47ad",
+      "size": 4934,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/3.swf",
+      "file": "assets/fish4.6/res/fish/3.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/3.swf",
+      "sha256": "03c5f1bd540acf8f592d60fea73d51c448fad62ca2185b71a9400b29ca7954b8",
+      "size": 23074,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/30.png",
+      "file": "assets/fish4.6/res/fish/30.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/30.png",
+      "sha256": "f18397043b18670ddd6a055454302b1eade268fad1f326bffb68e233587a5b41",
+      "size": 5673,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/31.png",
+      "file": "assets/fish4.6/res/fish/31.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/31.png",
+      "sha256": "de80eee31027a96c7c49f46abd209f1fd3bd952a9b187c2a44d0355027e9c30c",
+      "size": 6186,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/31b.swf",
+      "file": "assets/fish4.6/res/fish/31b.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/31b.swf",
+      "sha256": "f5e68ffa9a73689c84b8b76583d439047c3572e4cc1df3e47e7126056fd8a239",
+      "size": 18040,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/32.png",
+      "file": "assets/fish4.6/res/fish/32.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/32.png",
+      "sha256": "c8816610ed3dc610966470bead7fbd65969ecf7f1237ed34f10f3c4ab59ba53a",
+      "size": 6513,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/32.swf",
+      "file": "assets/fish4.6/res/fish/32.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/32.swf",
+      "sha256": "95de195ccbc45b39453362be5bbed0dd7aecc3c4cda0c0d62f4bb48c77b40246",
+      "size": 35693,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/33.png",
+      "file": "assets/fish4.6/res/fish/33.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/33.png",
+      "sha256": "34cb58d76f4171c5a8814ffaf6134f491f96ad802fe9ee8689c175107e8c27a5",
+      "size": 1919,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/33.swf",
+      "file": "assets/fish4.6/res/fish/33.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/33.swf",
+      "sha256": "ecb76b257be53d55bede7436604c8e7cd9be56892d86ec0e4d6bf2087fd0dd26",
+      "size": 18129,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/34.png",
+      "file": "assets/fish4.6/res/fish/34.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/34.png",
+      "sha256": "ac47d7b1a2f51192609528c4a91f9aae790d0167d53d8cea25f292633a11a8a4",
+      "size": 3074,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/34.swf",
+      "file": "assets/fish4.6/res/fish/34.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/34.swf",
+      "sha256": "67d7e863ab2dc61a9c8c70f0969e044b188c58b6a3bc0fc4b3cf432d997800d8",
+      "size": 23200,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/4.png",
+      "file": "assets/fish4.6/res/fish/4.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/4.png",
+      "sha256": "e5e94a1cc606ddae21a8f1bbe622a754bf022acdff7c7b5b48eac8120bd67d94",
+      "size": 5073,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/4.swf",
+      "file": "assets/fish4.6/res/fish/4.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/4.swf",
+      "sha256": "1336c239c21a9d971f316b47a9b90bf728e26bcc6fcb0d70587e524ed026462a",
+      "size": 21160,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/5.png",
+      "file": "assets/fish4.6/res/fish/5.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/5.png",
+      "sha256": "ac4aa0f15b6948428243e526d241989d1317b7c4771f84943baf62512c066b44",
+      "size": 6111,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/5.swf",
+      "file": "assets/fish4.6/res/fish/5.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/5.swf",
+      "sha256": "73531a35f1c1d05b058bf64dc738ee7c79bb41a379907af93813a7436ea0d701",
+      "size": 46493,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/6.png",
+      "file": "assets/fish4.6/res/fish/6.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/6.png",
+      "sha256": "7ef69fa6de364b56966bbef710de3957a59b405dcf7ed3b942a60b28feff2502",
+      "size": 5012,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/6.swf",
+      "file": "assets/fish4.6/res/fish/6.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/6.swf",
+      "sha256": "cecf01c9fe5e00a16a916cbe67270f4d1cf474bbe2ad960e3c79b904bd737e76",
+      "size": 17642,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/7.png",
+      "file": "assets/fish4.6/res/fish/7.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/7.png",
+      "sha256": "c06fc2cbb50884a9cfdde03c71f571fef7e807f341479d0a4612d0d7a20774cd",
+      "size": 5388,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/7.swf",
+      "file": "assets/fish4.6/res/fish/7.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/7.swf",
+      "sha256": "16c43028567094bd7f517a692a2d9911187cd394d8ebb079f31b702485a92d24",
+      "size": 17045,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/8.png",
+      "file": "assets/fish4.6/res/fish/8.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/8.png",
+      "sha256": "a2c6c41568a7fda449354047c592dff4b2e645cd9c04a69babdec868397b4373",
+      "size": 5683,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/8.swf",
+      "file": "assets/fish4.6/res/fish/8.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/8.swf",
+      "sha256": "7232399006e9dfa2560496ee5ed2f347d0ec28447115fc7db7a8cd4535af7d31",
+      "size": 21409,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/9.png",
+      "file": "assets/fish4.6/res/fish/9.png",
+      "source": "补充/farm+fish/fish4.6/res/fish/9.png",
+      "sha256": "ab6e55f709f66ac5cd58beeaa40ad63010f9781e25e313308c989fcdf1e71f11",
+      "size": 5946,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/fish/9.swf",
+      "file": "assets/fish4.6/res/fish/9.swf",
+      "source": "补充/farm+fish/fish4.6/res/fish/9.swf",
+      "sha256": "0c508145708dce2a478819bf107b4dfbeb5ed4dfb6a1d7a9844aef36e2c1943d",
+      "size": 21530,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/litter/1.png",
+      "file": "assets/fish4.6/res/litter/1.png",
+      "source": "补充/farm+fish/fish4.6/res/litter/1.png",
+      "sha256": "1e7ea30751267cf57431bbc545319e82aa73e14ba399e65192719957ef85dd3a",
+      "size": 7402,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/litter/2.png",
+      "file": "assets/fish4.6/res/litter/2.png",
+      "source": "补充/farm+fish/fish4.6/res/litter/2.png",
+      "sha256": "800dce6075540895ee542dd2dde258eb0e5fdd2c422ef3d34420d15a2c7f8a79",
+      "size": 9485,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/pet/102.swf",
+      "file": "assets/fish4.6/res/pet/102.swf",
+      "source": "补充/farm+fish/fish4.6/res/pet/102.swf",
+      "sha256": "18206bad98558125fb3dac9c186dbf26f99a4c992223a9baf05ac4fcefe7dbd5",
+      "size": 111394,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/pet/103.swf",
+      "file": "assets/fish4.6/res/pet/103.swf",
+      "source": "补充/farm+fish/fish4.6/res/pet/103.swf",
+      "sha256": "f8e98b40f05ec6b917a37cf2b1a4ebd70395a26273a258efd54a3285bb45826e",
+      "size": 115203,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/pet/112.swf",
+      "file": "assets/fish4.6/res/pet/112.swf",
+      "source": "补充/farm+fish/fish4.6/res/pet/112.swf",
+      "sha256": "610cab5640838ae66622ff29adc81613bad8af0521d3d8e7bdfe5c559d7ad663",
+      "size": 107547,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/pet/113.swf",
+      "file": "assets/fish4.6/res/pet/113.swf",
+      "source": "补充/farm+fish/fish4.6/res/pet/113.swf",
+      "sha256": "f2746603c134bc6d4dafbc093932c6eb2a99d5d05d736a2f74dac30dcfa6f366",
+      "size": 113334,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/pet/122.swf",
+      "file": "assets/fish4.6/res/pet/122.swf",
+      "source": "补充/farm+fish/fish4.6/res/pet/122.swf",
+      "sha256": "7ce05c77210ea9767cb867302862b11d90301fe09a58c9a5cbe650585115a31c",
+      "size": 102857,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/fish4.6/res/pet/123.swf",
+      "file": "assets/fish4.6/res/pet/123.swf",
+      "source": "补充/farm+fish/fish4.6/res/pet/123.swf",
+      "sha256": "a42baa421cc4890d121febd427a29669599c8ba75b8cfb42d6fcf3dd9b1605ea",
+      "size": 105167,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/config.xml",
+      "file": "assets/farm4.0/config.xml",
+      "source": "补充/farm+fish/farm/config.xml",
+      "sha256": "d34bbf2657348db4df68405f681a2e4bfc1db37af40d0b2a88670bb39710b567",
+      "size": 547,
+      "contentType": "text/xml"
+    },
+    {
+      "path": "/common/interact2/farm4.0/main.swf",
+      "file": "assets/farm4.0/main.swf",
+      "source": "补充/farm+fish/farm/main.swf",
+      "sha256": "4d780089adefd5b76a6899b6393c9979c35cdfcbc0b3c3743cbf09c6aac9e28b",
+      "size": 339593,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/bg/1.swf",
+      "file": "assets/farm4.0/res/bg/1.swf",
+      "source": "补充/farm+fish/farm/res/bg/1.swf",
+      "sha256": "9a2140e86a03d7b34ec5c4de0622d5eeb28c4f93653ddf5e9f8cbfffe8ad72f6",
+      "size": 30562,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/1.png",
+      "file": "assets/farm4.0/res/crop/1.png",
+      "source": "补充/farm+fish/farm/res/crop/1.png",
+      "sha256": "7abc0b33d1c66bf22d6b75be48ea521b1ef6e4bd0bbd04191d49bf40750e0fa9",
+      "size": 3274,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/1.swf",
+      "file": "assets/farm4.0/res/crop/1.swf",
+      "source": "补充/farm+fish/farm/res/crop/1.swf",
+      "sha256": "42a5605438ddc35441ba0a705de7f3d83fc34ef5d0a345736587f228220378b4",
+      "size": 9218,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/10.png",
+      "file": "assets/farm4.0/res/crop/10.png",
+      "source": "补充/farm+fish/farm/res/crop/10.png",
+      "sha256": "228419051a30e9540190342db253b6faf3c68babff8c37de12c1a14614a66216",
+      "size": 5229,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/10.swf",
+      "file": "assets/farm4.0/res/crop/10.swf",
+      "source": "补充/farm+fish/farm/res/crop/10.swf",
+      "sha256": "2e0c6223ff9cc8c91b83ecdf085b82e2d943c1f8b7f7ec43140af57b1417c747",
+      "size": 10807,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/11.png",
+      "file": "assets/farm4.0/res/crop/11.png",
+      "source": "补充/farm+fish/farm/res/crop/11.png",
+      "sha256": "2cd4c4d0c6367b82fedb2ea00802dd49d0b778fe75004d1054658df45be20ee9",
+      "size": 2113,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/11.swf",
+      "file": "assets/farm4.0/res/crop/11.swf",
+      "source": "补充/farm+fish/farm/res/crop/11.swf",
+      "sha256": "d078b9740bfe557c981d83d6818b0227c28ffc0bbd28bb6f81ab40f07bb02df7",
+      "size": 15220,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/12.png",
+      "file": "assets/farm4.0/res/crop/12.png",
+      "source": "补充/farm+fish/farm/res/crop/12.png",
+      "sha256": "328ce44d1c105f9291e564ad3bc37ed63b747cebbe3a71961b024bb58b309d10",
+      "size": 1906,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/12.swf",
+      "file": "assets/farm4.0/res/crop/12.swf",
+      "source": "补充/farm+fish/farm/res/crop/12.swf",
+      "sha256": "e0d33242781dbf7a4ede80b174851ef8bc16838951f66342c08368e1e47d87c0",
+      "size": 7610,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/13.png",
+      "file": "assets/farm4.0/res/crop/13.png",
+      "source": "补充/farm+fish/farm/res/crop/13.png",
+      "sha256": "20b869d25d788028a37c92d0ac89ec14b6f291b1abf5dfadf6f7e7f7c9aa1669",
+      "size": 2408,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/13.swf",
+      "file": "assets/farm4.0/res/crop/13.swf",
+      "source": "补充/farm+fish/farm/res/crop/13.swf",
+      "sha256": "fd26581fde5d7e20a893d90cb186091acc4731bc5823d003c00067993f1fd7c6",
+      "size": 13387,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/14.png",
+      "file": "assets/farm4.0/res/crop/14.png",
+      "source": "补充/farm+fish/farm/res/crop/14.png",
+      "sha256": "06187d3a1357356ebb72739a1af86d7dc4beba30a04b1f2093ff128e8f1385c2",
+      "size": 2204,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/14.swf",
+      "file": "assets/farm4.0/res/crop/14.swf",
+      "source": "补充/farm+fish/farm/res/crop/14.swf",
+      "sha256": "c0bfa6c3730f7ce0373ed4d198b1da4b18ba1d8a61f218f78d644761cdfff5df",
+      "size": 11150,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/15.png",
+      "file": "assets/farm4.0/res/crop/15.png",
+      "source": "补充/farm+fish/farm/res/crop/15.png",
+      "sha256": "b7322a81b2be91b081597f456dd097a9dd079d8a78a8b441bb3eb8277d68decb",
+      "size": 2056,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/16.png",
+      "file": "assets/farm4.0/res/crop/16.png",
+      "source": "补充/farm+fish/farm/res/crop/16.png",
+      "sha256": "6fb99fb740d260c225c9b66ac37db06b594d232f3806932ee2daecbea6e30be9",
+      "size": 2561,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/17.png",
+      "file": "assets/farm4.0/res/crop/17.png",
+      "source": "补充/farm+fish/farm/res/crop/17.png",
+      "sha256": "5a07f806722b528b9da2b35e1189a117c478c8a423eda784df681947931d8f5b",
+      "size": 2230,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/17.swf",
+      "file": "assets/farm4.0/res/crop/17.swf",
+      "source": "补充/farm+fish/farm/res/crop/17.swf",
+      "sha256": "ec5eef73b1a624ad9a12d4042958d53494ee5864d85c3347aacb35b79d98ec24",
+      "size": 8029,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/18.png",
+      "file": "assets/farm4.0/res/crop/18.png",
+      "source": "补充/farm+fish/farm/res/crop/18.png",
+      "sha256": "10e773ab493ac30a8be10799acb2289afa6c79c8d752cfe41953888f71acebac",
+      "size": 1753,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/18.swf",
+      "file": "assets/farm4.0/res/crop/18.swf",
+      "source": "补充/farm+fish/farm/res/crop/18.swf",
+      "sha256": "2cee20bfe1617694a89e83a390c0681ab2a86857d21cf4ae0a0f2d98b4a8a1e5",
+      "size": 22273,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/19.png",
+      "file": "assets/farm4.0/res/crop/19.png",
+      "source": "补充/farm+fish/farm/res/crop/19.png",
+      "sha256": "71d9701c2d88bb575ac675852dd5eae1d19d9298309f1f385b37cac7b21064a2",
+      "size": 1854,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/19.swf",
+      "file": "assets/farm4.0/res/crop/19.swf",
+      "source": "补充/farm+fish/farm/res/crop/19.swf",
+      "sha256": "8df3d5bfeac5a60a8c4dd2d61f6589818f9d3b8e7decb19f3d6d884c9a4be6be",
+      "size": 12823,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/2.png",
+      "file": "assets/farm4.0/res/crop/2.png",
+      "source": "补充/farm+fish/farm/res/crop/2.png",
+      "sha256": "12b77ff8c005aacbe5d3b7a42420aa603b70eb11e88358625c84934eb8e73ec8",
+      "size": 1990,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/2.swf",
+      "file": "assets/farm4.0/res/crop/2.swf",
+      "source": "补充/farm+fish/farm/res/crop/2.swf",
+      "sha256": "225aeffe4ce88e655d091ac95b60513332ccc72f342cd335c0e22a0df7c5eff2",
+      "size": 3860,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/20.png",
+      "file": "assets/farm4.0/res/crop/20.png",
+      "source": "补充/farm+fish/farm/res/crop/20.png",
+      "sha256": "e16b38d6174c741495917cf922aad6d9a073754fc74f69ed84a287dce051bee5",
+      "size": 2393,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/20.swf",
+      "file": "assets/farm4.0/res/crop/20.swf",
+      "source": "补充/farm+fish/farm/res/crop/20.swf",
+      "sha256": "3cbcec0d24e32ceb613098f556d1c4d54b9852ccd4a9ad878b793c4ccd418a89",
+      "size": 7901,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/21.png",
+      "file": "assets/farm4.0/res/crop/21.png",
+      "source": "补充/farm+fish/farm/res/crop/21.png",
+      "sha256": "980271e3b0440848add14841af4cec46372288fd29735afd8af8efa2dddd17e6",
+      "size": 7130,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/21.swf",
+      "file": "assets/farm4.0/res/crop/21.swf",
+      "source": "补充/farm+fish/farm/res/crop/21.swf",
+      "sha256": "62a5afacb8c7b81bfb1c68b3a5bda7b9018daa9a8a1f88ebc90800e0ccf29b7e",
+      "size": 16619,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/22.png",
+      "file": "assets/farm4.0/res/crop/22.png",
+      "source": "补充/farm+fish/farm/res/crop/22.png",
+      "sha256": "2324cc8644ba2a206f3cd38ed274e217b4d3180c1c8da3df10ce38775d276e3e",
+      "size": 6836,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/22.swf",
+      "file": "assets/farm4.0/res/crop/22.swf",
+      "source": "补充/farm+fish/farm/res/crop/22.swf",
+      "sha256": "49c69cfb8eb8da53184d3ff7d985edd6dbe359cc90442852767d3492a3927d07",
+      "size": 8212,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/23.png",
+      "file": "assets/farm4.0/res/crop/23.png",
+      "source": "补充/farm+fish/farm/res/crop/23.png",
+      "sha256": "e49679c64566d2d0f9c65cca08395c7c7e720c3d5b15f56abfdac819b121d5e7",
+      "size": 6569,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/23.swf",
+      "file": "assets/farm4.0/res/crop/23.swf",
+      "source": "补充/farm+fish/farm/res/crop/23.swf",
+      "sha256": "13a77647fd860640907c0cd4612df88072159991f4b1ed113a8490002cd2d489",
+      "size": 9644,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/24.png",
+      "file": "assets/farm4.0/res/crop/24.png",
+      "source": "补充/farm+fish/farm/res/crop/24.png",
+      "sha256": "f4eb7e02f941db9e37ead976df0eb0d969831e3c3e8786ba4bb6ec015291d0fa",
+      "size": 5926,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/24.swf",
+      "file": "assets/farm4.0/res/crop/24.swf",
+      "source": "补充/farm+fish/farm/res/crop/24.swf",
+      "sha256": "8b0e8447396b59fa42a49019c1c07cd5e730240c47b0e2f186ed16eedaac07bb",
+      "size": 6216,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/25.png",
+      "file": "assets/farm4.0/res/crop/25.png",
+      "source": "补充/farm+fish/farm/res/crop/25.png",
+      "sha256": "e6f7e52bc43a5ce14aa187c0c2d0af1a86018161a2ec877c3758e94cab607260",
+      "size": 2705,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/25.swf",
+      "file": "assets/farm4.0/res/crop/25.swf",
+      "source": "补充/farm+fish/farm/res/crop/25.swf",
+      "sha256": "aee0862a4dad5cc24bb5df518fc60205726c23d367368b9f49e190b2b9f18577",
+      "size": 10118,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/26.png",
+      "file": "assets/farm4.0/res/crop/26.png",
+      "source": "补充/farm+fish/farm/res/crop/26.png",
+      "sha256": "28e5776a3c520bbb3c0911a06009794e4e3cc6b40eceeab1770258b18cf7d0df",
+      "size": 2190,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/26.swf",
+      "file": "assets/farm4.0/res/crop/26.swf",
+      "source": "补充/farm+fish/farm/res/crop/26.swf",
+      "sha256": "52d68cb873b8f7f020659a846563d9cd1318ff20e82c2d4b646e6eb252804ece",
+      "size": 8610,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/27.png",
+      "file": "assets/farm4.0/res/crop/27.png",
+      "source": "补充/farm+fish/farm/res/crop/27.png",
+      "sha256": "d5d6b0b98b195c8a3067d9b677fdd56b8f438e578d91d3bc23cefb6126535cd1",
+      "size": 1480,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/27.swf",
+      "file": "assets/farm4.0/res/crop/27.swf",
+      "source": "补充/farm+fish/farm/res/crop/27.swf",
+      "sha256": "363aa26faf64e0bbe5d81845e8f1d918c5d5df15d9da4bc4cfa98db97b3a9efe",
+      "size": 4036,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/28.png",
+      "file": "assets/farm4.0/res/crop/28.png",
+      "source": "补充/farm+fish/farm/res/crop/28.png",
+      "sha256": "4c093ccdfa420e35c9f8219da5427734df474687a39418af7a40d05cfc3146fa",
+      "size": 3161,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/28.swf",
+      "file": "assets/farm4.0/res/crop/28.swf",
+      "source": "补充/farm+fish/farm/res/crop/28.swf",
+      "sha256": "c7005090eaff5567f4f5403da200cda72a5b758c6acc0ecf622e8b981eee6820",
+      "size": 12594,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/29.png",
+      "file": "assets/farm4.0/res/crop/29.png",
+      "source": "补充/farm+fish/farm/res/crop/29.png",
+      "sha256": "e64f731970ebf4d996624cb5c315978734042c25af5c1528951f93da3215a8a6",
+      "size": 5131,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/29.swf",
+      "file": "assets/farm4.0/res/crop/29.swf",
+      "source": "补充/farm+fish/farm/res/crop/29.swf",
+      "sha256": "2cd31bcfdf9476cbcc114f46d38d7b224aa57d432abee2257f1a93258a3ab5d0",
+      "size": 21084,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/3.png",
+      "file": "assets/farm4.0/res/crop/3.png",
+      "source": "补充/farm+fish/farm/res/crop/3.png",
+      "sha256": "047f82cdbb16226234af0cac981dc348051c46eeff0b2af6a30ebecb8e74dc94",
+      "size": 1893,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/3.swf",
+      "file": "assets/farm4.0/res/crop/3.swf",
+      "source": "补充/farm+fish/farm/res/crop/3.swf",
+      "sha256": "df402c71cc9d7803caf8a96f6f81926ab71a1f49b36b50042678185d4900369b",
+      "size": 4018,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/30.png",
+      "file": "assets/farm4.0/res/crop/30.png",
+      "source": "补充/farm+fish/farm/res/crop/30.png",
+      "sha256": "09581e22888d018807ef5a2c212378156db02952e689b7b6261e88b61864b7b3",
+      "size": 4029,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/30.swf",
+      "file": "assets/farm4.0/res/crop/30.swf",
+      "source": "补充/farm+fish/farm/res/crop/30.swf",
+      "sha256": "05d41bef23a065ebe217ba7d87c9bc0092484497d4d61314943616d8b6b20e89",
+      "size": 12933,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/31.png",
+      "file": "assets/farm4.0/res/crop/31.png",
+      "source": "补充/farm+fish/farm/res/crop/31.png",
+      "sha256": "34b836d4c02a855c13cc4258327f9ad25382ba2a64c44b00ee9c4caf784f023e",
+      "size": 3102,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/31.swf",
+      "file": "assets/farm4.0/res/crop/31.swf",
+      "source": "补充/farm+fish/farm/res/crop/31.swf",
+      "sha256": "78e68a631c770931d8e70a753ffbc67685a73a9f1900f77a75e121fe925049a9",
+      "size": 22659,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/32.png",
+      "file": "assets/farm4.0/res/crop/32.png",
+      "source": "补充/farm+fish/farm/res/crop/32.png",
+      "sha256": "1dd5585c58a69eb1f8d2ce80460ad858767245e83bf928ca20610a66b2cbce24",
+      "size": 3191,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/32.swf",
+      "file": "assets/farm4.0/res/crop/32.swf",
+      "source": "补充/farm+fish/farm/res/crop/32.swf",
+      "sha256": "e602be7e1d7ba713a9b375ab54c0fb075a2c086bbe91899c4b5938a37301517c",
+      "size": 9988,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/34.png",
+      "file": "assets/farm4.0/res/crop/34.png",
+      "source": "补充/farm+fish/farm/res/crop/34.png",
+      "sha256": "b077cbae0a414129444bca412fd7bd53ef51dc5a3435145a5df9bb613d312a1d",
+      "size": 2166,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/34.swf",
+      "file": "assets/farm4.0/res/crop/34.swf",
+      "source": "补充/farm+fish/farm/res/crop/34.swf",
+      "sha256": "c2f237cd20061ffed49d6e7ce8d6dc22210fbbda9cea02950c8a46b4bd6b026f",
+      "size": 8041,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/35.png",
+      "file": "assets/farm4.0/res/crop/35.png",
+      "source": "补充/farm+fish/farm/res/crop/35.png",
+      "sha256": "44dd6b95a6e3a8902e5cf8767f0aa80cd19ed528698759e00eb76596d11a1d6a",
+      "size": 3032,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/35.swf",
+      "file": "assets/farm4.0/res/crop/35.swf",
+      "source": "补充/farm+fish/farm/res/crop/35.swf",
+      "sha256": "ff79f84916ecc7079b43b7fcb5cbed7612645b57eda3df73e3f68ba7dee5e065",
+      "size": 7382,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/36.png",
+      "file": "assets/farm4.0/res/crop/36.png",
+      "source": "补充/farm+fish/farm/res/crop/36.png",
+      "sha256": "79e9ed5b4c76f775684ac1cf876306bdabd3d3db3eb46f590f0687819cc2e8ff",
+      "size": 3024,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/36.swf",
+      "file": "assets/farm4.0/res/crop/36.swf",
+      "source": "补充/farm+fish/farm/res/crop/36.swf",
+      "sha256": "15b6fbcb0ffe6d9fa8d44e1d2d4e2815cce9bb76d0e2205af29809cc243297f7",
+      "size": 7774,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/37.png",
+      "file": "assets/farm4.0/res/crop/37.png",
+      "source": "补充/farm+fish/farm/res/crop/37.png",
+      "sha256": "604fda18eb1ad1aa4854196a4abc973ac518fb327da8d8fe70d597cec7c9bc0a",
+      "size": 2891,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/37.swf",
+      "file": "assets/farm4.0/res/crop/37.swf",
+      "source": "补充/farm+fish/farm/res/crop/37.swf",
+      "sha256": "86bcd529a2652668dbe1d532693c08a7cfceac5197ccd53801198cd30a9ba5ae",
+      "size": 5430,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/38.png",
+      "file": "assets/farm4.0/res/crop/38.png",
+      "source": "补充/farm+fish/farm/res/crop/38.png",
+      "sha256": "c889e5de4115d6dc82f27b7592da55c414fbadc118654fe512f9c9a85269c225",
+      "size": 2950,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/38.swf",
+      "file": "assets/farm4.0/res/crop/38.swf",
+      "source": "补充/farm+fish/farm/res/crop/38.swf",
+      "sha256": "33631e09553283287a8f1bac30ba2c500b9c927a0b4e3843349741ed94ada3b5",
+      "size": 6880,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/39.png",
+      "file": "assets/farm4.0/res/crop/39.png",
+      "source": "补充/farm+fish/farm/res/crop/39.png",
+      "sha256": "8114817f11eb06c89ad18449ea1b04ef1cb5f9881f8ba7b3474d5203ff9f4ece",
+      "size": 2193,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/39.swf",
+      "file": "assets/farm4.0/res/crop/39.swf",
+      "source": "补充/farm+fish/farm/res/crop/39.swf",
+      "sha256": "a5b95140657f48f201c22b8a0e8c072cac88888fd5b55533a33884173745564a",
+      "size": 4626,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/4.png",
+      "file": "assets/farm4.0/res/crop/4.png",
+      "source": "补充/farm+fish/farm/res/crop/4.png",
+      "sha256": "2b31f9b2739c97a74b00cf2caa295b484a2081008571978a95542603ce73b5b4",
+      "size": 2007,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/4.swf",
+      "file": "assets/farm4.0/res/crop/4.swf",
+      "source": "补充/farm+fish/farm/res/crop/4.swf",
+      "sha256": "4a99407a4b076d40651ca53879cad29dc513ac52eaa0911c083b3c7c0d87594c",
+      "size": 317294,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/40.png",
+      "file": "assets/farm4.0/res/crop/40.png",
+      "source": "补充/farm+fish/farm/res/crop/40.png",
+      "sha256": "cbe3d485e4cfbae90ab3c64fe30cc7c38d6603990cee4c7716dd0ea2ff2716e4",
+      "size": 1748,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/40.swf",
+      "file": "assets/farm4.0/res/crop/40.swf",
+      "source": "补充/farm+fish/farm/res/crop/40.swf",
+      "sha256": "119710155b7a50ac4af6bb4bedadda82ceb4a278817d534f1c2aac9ecf97aea9",
+      "size": 5025,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/41.png",
+      "file": "assets/farm4.0/res/crop/41.png",
+      "source": "补充/farm+fish/farm/res/crop/41.png",
+      "sha256": "b905cf04576fe4eb1f881620a8e55f811941956b4539c16d892022643382101c",
+      "size": 2548,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/41.swf",
+      "file": "assets/farm4.0/res/crop/41.swf",
+      "source": "补充/farm+fish/farm/res/crop/41.swf",
+      "sha256": "620fa4f0f3f3101fe99f28ac12c9b3ac526776a6fb68bfa0e297cdbc3cad117f",
+      "size": 8401,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/42.png",
+      "file": "assets/farm4.0/res/crop/42.png",
+      "source": "补充/farm+fish/farm/res/crop/42.png",
+      "sha256": "2124fc765b9e2885e73dc4e3156aeefbd48ba8f151961ce6c180ecf60e2f0596",
+      "size": 2298,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/42.swf",
+      "file": "assets/farm4.0/res/crop/42.swf",
+      "source": "补充/farm+fish/farm/res/crop/42.swf",
+      "sha256": "973952dc90fb1f3bb64f3396a07eb6b069a627dc5569fdb848f44ffe38671103",
+      "size": 9746,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/43.png",
+      "file": "assets/farm4.0/res/crop/43.png",
+      "source": "补充/farm+fish/farm/res/crop/43.png",
+      "sha256": "abef0d334494c2820b1a5b8f7f5cb366cc71424dc120e07bc3d9df35722c6466",
+      "size": 2146,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/43.swf",
+      "file": "assets/farm4.0/res/crop/43.swf",
+      "source": "补充/farm+fish/farm/res/crop/43.swf",
+      "sha256": "fccdf0cfc1c4a282f3d821ad0494d58dc4068e6d939853b4dcecdd98a4821922",
+      "size": 4004,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/44.png",
+      "file": "assets/farm4.0/res/crop/44.png",
+      "source": "补充/farm+fish/farm/res/crop/44.png",
+      "sha256": "f956c531a1b51f4817d91cf22e6ece0ac23c51e70d360019e7a67539c005ca33",
+      "size": 2878,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/44.swf",
+      "file": "assets/farm4.0/res/crop/44.swf",
+      "source": "补充/farm+fish/farm/res/crop/44.swf",
+      "sha256": "397d8863f1e8c5932a708ed583b39d4c7c102fcda6c8f417edefd683f639d08f",
+      "size": 4573,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/45.png",
+      "file": "assets/farm4.0/res/crop/45.png",
+      "source": "补充/farm+fish/farm/res/crop/45.png",
+      "sha256": "3aff421ebddb0bfca4b494f53c31ad4ade8d493371a571ec5241eb22f2ddc724",
+      "size": 2200,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/45.swf",
+      "file": "assets/farm4.0/res/crop/45.swf",
+      "source": "补充/farm+fish/farm/res/crop/45.swf",
+      "sha256": "3e86320b72b6cb65b622484e088846fb5688169e0d8f2ddc0e14935e903ae5de",
+      "size": 10189,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/46.png",
+      "file": "assets/farm4.0/res/crop/46.png",
+      "source": "补充/farm+fish/farm/res/crop/46.png",
+      "sha256": "3d9f1f39e2857522bd7a03da79c757a545dea50d4afb347f83490c14077a1e36",
+      "size": 2518,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/46.swf",
+      "file": "assets/farm4.0/res/crop/46.swf",
+      "source": "补充/farm+fish/farm/res/crop/46.swf",
+      "sha256": "e403fee36fc392400b4e7618273c5d6c510be2e7b867e14e4922e32b1ece4280",
+      "size": 14419,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/47.png",
+      "file": "assets/farm4.0/res/crop/47.png",
+      "source": "补充/farm+fish/farm/res/crop/47.png",
+      "sha256": "63d2dc30d1a0a9c4362c8926c19bf07b8980a345a722aa2f0110f0e26c8c2479",
+      "size": 3385,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/47.swf",
+      "file": "assets/farm4.0/res/crop/47.swf",
+      "source": "补充/farm+fish/farm/res/crop/47.swf",
+      "sha256": "506478108d4a830548f80d129e10e91069d44de99e8b349c9bd99df408730984",
+      "size": 12813,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/48.png",
+      "file": "assets/farm4.0/res/crop/48.png",
+      "source": "补充/farm+fish/farm/res/crop/48.png",
+      "sha256": "f47c199de218ec7f2d5a0f9f44870284995e586cf27cb2c5d5326e77a8a6f104",
+      "size": 2933,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/48.swf",
+      "file": "assets/farm4.0/res/crop/48.swf",
+      "source": "补充/farm+fish/farm/res/crop/48.swf",
+      "sha256": "7dfe9404c08c5779c482cc5c319a65b8b1651f45118d1cd1ba6f678e791bf92c",
+      "size": 21679,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/49.png",
+      "file": "assets/farm4.0/res/crop/49.png",
+      "source": "补充/farm+fish/farm/res/crop/49.png",
+      "sha256": "c50f9f082d74e52452a9f691b0e21ebdb1e472f73c117789541621b651ef932e",
+      "size": 3342,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/49.swf",
+      "file": "assets/farm4.0/res/crop/49.swf",
+      "source": "补充/farm+fish/farm/res/crop/49.swf",
+      "sha256": "40eb11d4519e31f4ac475ab9f9d5ab941ad37c68873e24ba1230cf91d4e2ba38",
+      "size": 11682,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/5.png",
+      "file": "assets/farm4.0/res/crop/5.png",
+      "source": "补充/farm+fish/farm/res/crop/5.png",
+      "sha256": "df0237f18dc0900f838781172f46e6ac1b931f5fe9f44e1d004cd95492f744e7",
+      "size": 1471,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/5.swf",
+      "file": "assets/farm4.0/res/crop/5.swf",
+      "source": "补充/farm+fish/farm/res/crop/5.swf",
+      "sha256": "b805621eeb73bcede1829d190af31f335f5d7a92e6808a1955a403dcf67c9f55",
+      "size": 16150,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/50.png",
+      "file": "assets/farm4.0/res/crop/50.png",
+      "source": "补充/farm+fish/farm/res/crop/50.png",
+      "sha256": "91609d41f9b3e65a827e0e6f2e10fed1bd18e84dc68d61ed8ff402334b4f0777",
+      "size": 3400,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/50.swf",
+      "file": "assets/farm4.0/res/crop/50.swf",
+      "source": "补充/farm+fish/farm/res/crop/50.swf",
+      "sha256": "08737f87ae6d4bd997525c46948df3e173d61da98644e323f52b4d17566729be",
+      "size": 10094,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/51.png",
+      "file": "assets/farm4.0/res/crop/51.png",
+      "source": "补充/farm+fish/farm/res/crop/51.png",
+      "sha256": "461defa6a7ea9ebaae185c7eff1ebf9e13bf3235c4454da53cdc3bb17f8d8da3",
+      "size": 3449,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/51.swf",
+      "file": "assets/farm4.0/res/crop/51.swf",
+      "source": "补充/farm+fish/farm/res/crop/51.swf",
+      "sha256": "24274354fc0c66e98fbb5e63e27790555d52761d91f2897f48470dd4b58b8482",
+      "size": 23285,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/52.png",
+      "file": "assets/farm4.0/res/crop/52.png",
+      "source": "补充/farm+fish/farm/res/crop/52.png",
+      "sha256": "ee0d750616f791efaf67a707ba2144d2f5623b4c64e007efad60e2e72edf8237",
+      "size": 2752,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/52.swf",
+      "file": "assets/farm4.0/res/crop/52.swf",
+      "source": "补充/farm+fish/farm/res/crop/52.swf",
+      "sha256": "b6c36ee07ef8f5f2ea7a22071579214bbd3f8b736987fc07bff7a43d729cfdd1",
+      "size": 8925,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/6.png",
+      "file": "assets/farm4.0/res/crop/6.png",
+      "source": "补充/farm+fish/farm/res/crop/6.png",
+      "sha256": "83a833b1e3362ee52a9da2b17160b023ffe8fca79cee099d1dfd2414c1a9df8d",
+      "size": 2743,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/6.swf",
+      "file": "assets/farm4.0/res/crop/6.swf",
+      "source": "补充/farm+fish/farm/res/crop/6.swf",
+      "sha256": "b7c985e4c0598a2c96180959c9ccaa43bcc9e99b42e9fe5986740047daefe021",
+      "size": 13495,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/7.png",
+      "file": "assets/farm4.0/res/crop/7.png",
+      "source": "补充/farm+fish/farm/res/crop/7.png",
+      "sha256": "b18a77bb91bec6a432aa6514a2f70a7dbafe10f1c7ce47cabec81ce5fa568738",
+      "size": 1712,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/7.swf",
+      "file": "assets/farm4.0/res/crop/7.swf",
+      "source": "补充/farm+fish/farm/res/crop/7.swf",
+      "sha256": "2c7ebb6baa8af730a142e015591889c191ff73118a4806ddc58dbfb240179cb7",
+      "size": 14447,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/8.png",
+      "file": "assets/farm4.0/res/crop/8.png",
+      "source": "补充/farm+fish/farm/res/crop/8.png",
+      "sha256": "71d63bdf1fa00d16b99fd982ccdce2cd90dd489937d753908b5eed15ec779f5c",
+      "size": 2066,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/8.swf",
+      "file": "assets/farm4.0/res/crop/8.swf",
+      "source": "补充/farm+fish/farm/res/crop/8.swf",
+      "sha256": "2cb282ce8dc8685e34e77e3955c90aa44b5015ec790798369fa488f4388ab81f",
+      "size": 11651,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/9.png",
+      "file": "assets/farm4.0/res/crop/9.png",
+      "source": "补充/farm+fish/farm/res/crop/9.png",
+      "sha256": "c7792bb74e4fdffc5d9bc301d7e5e800c7e8d242188d9f784d205343a80d86d2",
+      "size": 2132,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/crop/9.swf",
+      "file": "assets/farm4.0/res/crop/9.swf",
+      "source": "补充/farm+fish/farm/res/crop/9.swf",
+      "sha256": "429944c9a9e746e4dabcf06dc4276137eaf74dae332a2d307c405a55b1afb5e3",
+      "size": 10447,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/pet/102.swf",
+      "file": "assets/farm4.0/res/pet/102.swf",
+      "source": "补充/farm+fish/farm/res/pet/102.swf",
+      "sha256": "8c3dbbe3a9ed47768ffdcf4b341287f63c5d7ec97abdce18dd7361f1d034a925",
+      "size": 105916,
+      "contentType": "application/x-shockwave-flash"
+    },
+    {
+      "path": "/common/interact2/farm4.0/res/pet/103.swf",
+      "file": "assets/farm4.0/res/pet/103.swf",
+      "source": "补充/farm+fish/farm/res/pet/103.swf",
+      "sha256": "930bbe31a788789bdf2ba24b7191decbc14e9417b959042fc4eef057427242cf",
+      "size": 85794,
+      "contentType": "application/x-shockwave-flash"
+    }
+  ]
+}

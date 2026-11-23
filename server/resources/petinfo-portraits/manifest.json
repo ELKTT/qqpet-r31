@@ -1,0 +1,60 @@
+{
+  "source": "NEW-QQPet/QQPenguin/res/Plugins/QuickFeed/PetInfo.swf",
+  "sourceSha256": "62e6e5730a0f860896b1caf753a7b64dad657b354941b9e3669d19a8a79a7c36",
+  "images": [
+    {
+      "phase": 102,
+      "bitmapId": 17,
+      "tagSha256": "a2777ef8dfa1818d503cee12f16f8ae021fd9c668e7cc00111098014c1449d16",
+      "sha256": "0901406b6440123ede6ce7d34c126555ce64dd4a14b6744d671c09a507aedae7",
+      "bytes": 6127,
+      "width": 120,
+      "height": 120
+    },
+    {
+      "phase": 103,
+      "bitmapId": 32,
+      "tagSha256": "a159f83fce279ca8c79cc2667bc2f419b4cb137710b5580fb928ef38218ac8c7",
+      "sha256": "70123e2786e3c9b1f69c74bb0fc28c48c94a8d02d87153ff916d8a9b05bb26d5",
+      "bytes": 6366,
+      "width": 120,
+      "height": 120
+    },
+    {
+      "phase": 112,
+      "bitmapId": 23,
+      "tagSha256": "0643690218ce2b42986469eda2fb6b9f509a068798e8956d8b8b3e5c636aa62c",
+      "sha256": "fa738e73c6c78d3c827d6e889baeadfff57aa6b5d7ced7d6d588d37eff213c9a",
+      "bytes": 7518,
+      "width": 120,
+      "height": 120
+    },
+    {
+      "phase": 113,
+      "bitmapId": 20,
+      "tagSha256": "24c06edc6b36ced262dbb053fd7cb036c0d30d6efb8ad42919b6975e1b6afc30",
+      "sha256": "a13755994c6d1de88fff76a66588c7c716c09e01dd880177f025a6473859244c",
+      "bytes": 7935,
+      "width": 120,
+      "height": 120
+    },
+    {
+      "phase": 122,
+      "bitmapId": 29,
+      "tagSha256": "50b00d4e18d24483e246183e716e77b5c13a5ef7be7d3bdf5ad563cd056b01bd",
+      "sha256": "7a6739de256e30beb136170fe6610f632acb1c508a96eb015a952d8df0797c86",
+      "bytes": 5662,
+      "width": 120,
+      "height": 120
+    },
+    {
+      "phase": 123,
+      "bitmapId": 26,
+      "tagSha256": "f8f11403febe6a811be2784e34f4ccec3caae648944bf6765a18db46ca354a66",
+      "sha256": "22df67f8b22df0acf303689f6402ae56f3bbc0bb6955e32409edf6fb6954a0ec",
+      "bytes": 6144,
+      "width": 120,
+      "height": 120
+    }
+  ]
+}

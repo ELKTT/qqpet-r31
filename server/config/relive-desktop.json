@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "resource": "relivedesktop",
+  "file": "relive-main.swf",
+  "sha256": "e0129b8c1cd60613d81b2b1e9524f840aaad8296a20d6bcfadbe90b4b372e034",
+  "size": 63601,
+  "phases": [
+    102,
+    103,
+    112,
+    113,
+    122,
+    123
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "kind": "qqpet-local-webdir-zone-template",
+  "versions": {
+    "upgradetype": 0,
+    "loadver": 1406,
+    "updatever": 1406,
+    "kernelver": 443,
+    "kernelinfo": ""
+  },
+  "resourceDomain": "127.0.0.1",
+  "zoneId": 1,
+  "zoneArea": 1
+}

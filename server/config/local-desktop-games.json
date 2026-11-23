@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "fish",
+      "files": [
+        {
+          "name": "main_102.swf",
+          "file": "fish-main_102.swf",
+          "sha256": "a901d5d7863484ebf8b861542c9ed9fa0739a6350e140ce9104ae3cb27cd1212",
+          "size": 704195
+        },
+        {
+          "name": "game_102.swf",
+          "file": "fish-game_102.swf",
+          "sha256": "b564d56fb5fe110cec5f2bc0387654edf8d1c85f8eb7af5b05214d1f610bdaf6",
+          "size": 701932
+        },
+        {
+          "name": "main_103.swf",
+          "file": "fish-main_103.swf",
+          "sha256": "8950980f6070e677f94539cc46f53150901f83a1d842eaa132f05a10c48a30c4",
+          "size": 704163
+        },
+        {
+          "name": "game_103.swf",
+          "file": "fish-game_103.swf",
+          "sha256": "515b184d8e53ce556ee0c0f4c12b0f433762a9f0464b94f2c65342c3b5bda2e3",
+          "size": 701876
+        }
+      ]
+    },
+    {
+      "id": "cannon",
+      "files": [
+        {
+          "name": "main_102.swf",
+          "file": "cannon-main_102.swf",
+          "sha256": "a67b6c38cb911d17fb5acf6f1667676952ebaa03d6c64c6eecfdd1ea8957f8fe",
+          "size": 542490
+        },
+        {
+          "name": "game_102.swf",
+          "file": "cannon-game_102.swf",
+          "sha256": "132983bff02efa344dd0f0b1c96139944a66dff30d7f1fd3f698bec69f79dda1",
+          "size": 541090
+        },
+        {
+          "name": "main_103.swf",
+          "file": "cannon-main_103.swf",
+          "sha256": "a67b6c38cb911d17fb5acf6f1667676952ebaa03d6c64c6eecfdd1ea8957f8fe",
+          "size": 542490
+        },
+        {
+          "name": "game_103.swf",
+          "file": "cannon-game_103.swf",
+          "sha256": "132983bff02efa344dd0f0b1c96139944a66dff30d7f1fd3f698bec69f79dda1",
+          "size": 541090
+        }
+      ]
+    },
+    {
+      "id": "stars",
+      "files": [
+        {
+          "name": "main_102.swf",
+          "file": "stars-main_102.swf",
+          "sha256": "a32a31396f3de38db975f916847f7924eb3b72e63c01b3ce86d966c25f9996d5",
+          "size": 602503
+        },
+        {
+          "name": "game_102.swf",
+          "file": "stars-game_102.swf",
+          "sha256": "87e573aad836d4ea3ff168f55c9ba9128edf8b1a651382bc875f6be3550c2fac",
+          "size": 598472
+        },
+        {
+          "name": "main_103.swf",
+          "file": "stars-main_103.swf",
+          "sha256": "a32a31396f3de38db975f916847f7924eb3b72e63c01b3ce86d966c25f9996d5",
+          "size": 602503
+        },
+        {
+          "name": "game_103.swf",
+          "file": "stars-game_103.swf",
+          "sha256": "87e573aad836d4ea3ff168f55c9ba9128edf8b1a651382bc875f6be3550c2fac",
+          "size": 598472
+        }
+      ]
+    }
+  ]
+}

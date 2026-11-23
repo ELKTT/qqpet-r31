@@ -1,0 +1,12 @@
+{
+  "name": "qqpet-server-source",
+  "private": true,
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node start-server.mjs"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "enabled": true,
+  "policy": {
+    "id": "local-online-vitals-v5",
+    "lossPerMinute": {
+      "hunger": [
+        2,
+        2
+      ],
+      "cleanliness": [
+        2,
+        2
+      ],
+      "mood": [
+        2,
+        4
+      ]
+    },
+    "lowMoodCareExtra": 0,
+    "baseGrowthPerHour": 260,
+    "moodPenalties": [
+      180,
+      140,
+      100,
+      70,
+      20,
+      0
+    ],
+    "healthPenalties": [
+      500,
+      160,
+      120,
+      80,
+      30,
+      0
+    ],
+    "careRiskPercent": {
+      "hunger": 24,
+      "cleanliness": 36
+    },
+    "lowCareGrowthPenalty": 80,
+    "healthRiskMinutes": 60,
+    "healthFloor": 1,
+    "workLossPerMinuteTenths": [
+      {
+        "minLevel": 0,
+        "hunger": 32,
+        "cleanliness": 44
+      },
+      {
+        "minLevel": 6,
+        "hunger": 38,
+        "cleanliness": 56
+      },
+      {
+        "minLevel": 12,
+        "hunger": 44,
+        "cleanliness": 68
+      },
+      {
+        "minLevel": 18,
+        "hunger": 50,
+        "cleanliness": 80
+      }
+    ],
+    "moodLossDivisor": 2,
+    "autoCareMood": true,
+    "gameplay": {
+      "checkMs": 10000,
+      "oneRiskBasisPoints": 50,
+      "bothRiskBasisPoints": 150,
+      "progressionCheckMs": 300000,
+      "progressionRiskBasisPoints": 200,
+      "previousDigest": "8ddb5ebbe148bbdf15d8f6b10efcc18be8717c265015cfbb8f2774b1cebf96f7",
+      "previousGameplayDigest": "b8890f7ef6bb79e41859d4cb1cabde1b7d0d0309ae435d2fa590a0dfdd5897b7",
+      "riskGraceMs": 0,
+      "previousBalanceDigest": "9fae233bf04d62d827a96d42b89037f0e5636b6aac30c3b23a0954763a5ddd3c",
+      "feedbackRules": {
+        "revision": 2,
+        "previousDigest": "84d0290eb73a24b445f493024999397254f258e28de5e650263f27169137790e",
+        "previousRuntimeDigest": "49771e0fdf4753ffaacdb94d4e573c010467064886ad8b7431d529d881126445"
+      },
+      "carePercent": {
+        "hunger": 24,
+        "cleanliness": 48
+      },
+      "playLossPerMinute": {
+        "hunger": 4,
+        "cleanliness": 4
+      }
+    }
+  }
+}

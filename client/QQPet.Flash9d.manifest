@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="QQPet.Flash9d" version="9.0.0.0" type="win32"/>
+  <file name="flash9d.ocx">
+    <comClass clsid="{D27CDB6E-AE6D-11CF-96B8-444553540000}" threadingModel="Apartment" description="Shockwave Flash Object"/>
+  </file>
+</assembly>

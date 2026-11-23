@@ -1,0 +1,1146 @@
+{
+ "schemaVersion": 1,
+ "authority": "NEW-QQPet/QQPenguin/common/market",
+ "entries": [
+  {
+   "source": "common/market/2009/alert/alert.css",
+   "bytes": 1599,
+   "sha256": "1edaf96f281a366967f014eeff001f44d484e9350dcf7818472beea161508080",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/alert.js",
+   "bytes": 3013,
+   "sha256": "c92c991bd4fd055dbf5e51b4d0fc503d7adfbd6dd9d2f0e093b5d720e11897fd",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/images/alert.gif",
+   "bytes": 39826,
+   "sha256": "e256cfce4624b2da50ff0a553a8a6cf7965653959ee3cd48c91a99638451eea0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/images/alert1_03.gif",
+   "bytes": 3282,
+   "sha256": "08ddece4d3f7e625cdbd525815b28b546a516d4c2b53ebb25f50c86905d4b5d6",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/images/alert1_05.gif",
+   "bytes": 3322,
+   "sha256": "fb067302ab7530f12e5df951d55efb4cb170fe12ce8d0826062a0545c42cac57",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/images/alert_03.gif",
+   "bytes": 2222,
+   "sha256": "2ced9a442132a17b139819101015d183d910bbbf41939856e6d3dcc14a6e2dfc",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/images/alert_06.gif",
+   "bytes": 2358,
+   "sha256": "2c39bc5cb7023fb3eb19b0238856d032ee7fb33b351fbf299d1439f7fc57c211",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/images/alert_08.gif",
+   "bytes": 2075,
+   "sha256": "0df5f0a8bc1f147d169034430feb6ecc421c2f9ad99d9cff54e6d35b81cc3572",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/images/alert_10.gif",
+   "bytes": 2771,
+   "sha256": "14d71dfe6628b36b93f6cb1ba020787c4760eea8d60caa5c04383edff9b7b14b",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/images/alert_13.gif",
+   "bytes": 2638,
+   "sha256": "7fecbdb5f12bc068889d55ec7c15c68f82841f0910c1c085670a135f305a1fb0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/alert/images/alertbg.gif",
+   "bytes": 26267,
+   "sha256": "43249626ff56f5c7e6600980559e57740f33732ec6f2e01f9a1038e15b077261",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/bg.gif",
+   "bytes": 24164,
+   "sha256": "d3ce4e380fb938a6343c4dfe5d534bb583a5b8a39dfffab6e28ac2d3fd5da39c",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/bg1.gif",
+   "bytes": 19039,
+   "sha256": "d18c8b7d5c05f386d463fdf9e0160f85da5ee4a0f168b207e1d4bfb398a445a3",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/bg_02.gif",
+   "bytes": 259,
+   "sha256": "053188f4a747d2abb4c1d880708dc841f64055b27cccc4705ff426d75999507a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/btn_empty.gif",
+   "bytes": 1008,
+   "sha256": "0e68bf9489ac06d461eea001a875fbf85eed2659ec45295fd6bb353cf7e4c03e",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buttom_01.gif",
+   "bytes": 2564,
+   "sha256": "7090edd06e4ffe5ce7740df13e172b2dd63b47548f459ea05f7a475b9581ac4e",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buttom_02.gif",
+   "bytes": 2596,
+   "sha256": "567045f1b42e444b76f317cc7033a0c13d21a56e386711ba7e9a05cbd2d15202",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buttom_03.gif",
+   "bytes": 1522,
+   "sha256": "afac84b98fedf7aa44c583eca8fb84b1d988d7fe14224aa7503ea71704273d35",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buttom_04.gif",
+   "bytes": 1169,
+   "sha256": "c578c47dc714ac62b8929dade5a1c7c60ced769f342cbfbf761481a76765744a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buy1_03.gif",
+   "bytes": 846,
+   "sha256": "58eaca4099ff4243b3df59c9598dcfda368089cf1fffce308a13f8de8181bb6c",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buy1_07.gif",
+   "bytes": 1617,
+   "sha256": "d50fb9ac6c569366452e3d9eae91c18c23dcf843b7af262a971692920319101a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buy1_11.gif",
+   "bytes": 1945,
+   "sha256": "4506b9c36c2fe561eb1ecb9220c182aefd7eec0c6de423308bc3e20947e1b85a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buy1_bg.gif",
+   "bytes": 19682,
+   "sha256": "6fa36aaf931577ce299461c35681a5894074c63bea9516d26371c7eeb8f3ff2e",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buy2_bg.gif",
+   "bytes": 18655,
+   "sha256": "c9bb92fb0938692fabe17e505d4150b75357859ef2793ecc7ee142c1e1e72976",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buy_03.gif",
+   "bytes": 1159,
+   "sha256": "3ef09489c784ff34df53899ce26f73a2291cc0eebfd56a3a8326e75a5135aeda",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buy_1.gif",
+   "bytes": 590,
+   "sha256": "9108b3db738da0617243fa039db31ef97f2b98c7313b77f984fce3d91c5ae980",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buy_2.gif",
+   "bytes": 582,
+   "sha256": "ae1af13a07a53b966299d72d03a10bd4967e58295097006d029bfbaed56d5519",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/buy_bg2.gif",
+   "bytes": 20887,
+   "sha256": "d543c694f9ddd86f3d1340cdb78ac2339cbc25ee08ff857f617dd192834642e1",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/cs_03.gif",
+   "bytes": 1341,
+   "sha256": "ca5189689d2993abc2747048d66ae19e5fd2ef45da8ef97a0f07c5411da7ba3b",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/defaultimg.gif",
+   "bytes": 545,
+   "sha256": "e5874f16c09a645668b416ad7e0e5c9318d4436ad86ca6467e81682a4cd7f87a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/giftbag_01.gif",
+   "bytes": 314,
+   "sha256": "94d6f8f23330231de83659881730bd9aa08cd7be861cb3dcd31ada157f6abd31",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/giftbag_02.gif",
+   "bytes": 1376,
+   "sha256": "978e5979b1fa286553485acb90a6f0e208c924fb5fec0bae2ff69858f0928bf2",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_1.gif",
+   "bytes": 2470,
+   "sha256": "bfa1147eb4e71e42b326cb8738bd9253b70e86f7f9963800e33df50ab6b0e7d0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_10.gif",
+   "bytes": 2001,
+   "sha256": "d6a858bcf43e429cd8bf101dfe5e4bb7c8ce9b91029d151a84bd4a91f89c8c9e",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_2.gif",
+   "bytes": 2459,
+   "sha256": "a4b9b8b6e0bd3c4abe6b574b4fdd2378fcf7d26b006a13ee94f2cf0559fed21b",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_3.gif",
+   "bytes": 2684,
+   "sha256": "6d5e3c248251eeb1e1b351e74f0a0b08a67c2b93e708e062375587101e490339",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_4.gif",
+   "bytes": 2483,
+   "sha256": "f0be91535fc92668360f042e433942eafd4eb36c9cb7fb787ecea2a4d910f9ca",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_5.gif",
+   "bytes": 2658,
+   "sha256": "b395e5652793737607f98c23686e47cc65e31486e0351b2c8838cd37c8b34d19",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_6.gif",
+   "bytes": 2658,
+   "sha256": "77b211de74bf42dddb0270476ba24a598aa04bd5b570c00f96514c2c38d8b635",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_7.gif",
+   "bytes": 2406,
+   "sha256": "d74435c7a6936c05da30d03c3fc441a487545cb807ca0ee559668501428f0eec",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_8.gif",
+   "bytes": 2480,
+   "sha256": "0d182ff9e815faa598ee280a46eccdfd430b2b26e2b5bd7301adef32317818e0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/hot_9.gif",
+   "bytes": 2485,
+   "sha256": "5e3b7ccc953ebf2c99f2d9957ef5d31258c7a1c67460d55445c55f54374deb35",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/left_26.gif",
+   "bytes": 1472,
+   "sha256": "80b0a075c18394fe8dab33142044d107f9f39ad466f537a89d2c2577ca0d3349",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/left_27.gif",
+   "bytes": 786,
+   "sha256": "f8aa8abcfebb4f303b765c0366b46ae813f14026c4869b1d32e060bedf9c9e24",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/left_28.gif",
+   "bytes": 1235,
+   "sha256": "37ab48ea74f91c5441887a4c6d8efe1f71f3ce23ef509e2e218766979f43f0f8",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/malf1_05.gif",
+   "bytes": 1978,
+   "sha256": "330766338f58b17664170200f1fad0d44023afd5739e39d15c2bd8b16a8c15d9",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/malf1_06.gif",
+   "bytes": 364,
+   "sha256": "5f5c958f4e3c85605e2f366a214e4da784baa4f0b6873660c2bfc0f3b36c64ba",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/malf_03.gif",
+   "bytes": 1545,
+   "sha256": "088b71ce76501839dabb609161b2f59a748b7e9c47cc6e14fd8b6f8a700405f8",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/malf_04.gif",
+   "bytes": 764,
+   "sha256": "f2e66c60bfaa511f4c759f2e2f3fcb6d31705618459a15abf59646ad7d235bb1",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/malf_05.gif",
+   "bytes": 3007,
+   "sha256": "0125615d149a0e4bfb2ef7370268cd6bcb9e135f2ca1fc3210fde55cc171ba55",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/malf_06.gif",
+   "bytes": 676,
+   "sha256": "12189d18532714c35e4101b5da4e6919f328fda52c70986a9f800d84bd9c817e",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/mall2_03.gif",
+   "bytes": 2880,
+   "sha256": "f50f9394a8f63af893df4bf6de2e15f088873e5403949dddc7503965408fe55a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/mall2_25.gif",
+   "bytes": 5940,
+   "sha256": "ab0a9f4cc31ae29435ffa5edbe503c700abc7e4fbcfea0893a69e15b07fb4469",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/mall2_40.gif",
+   "bytes": 2095,
+   "sha256": "e719fc8ab081af4fdf79b1949848ac7bb34fc2834e9282f9b9ef96fd0bf70d46",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/mall_03.gif",
+   "bytes": 38033,
+   "sha256": "e5ae339ad16fe15d441a1152bd87bf9fb4cc67963307b36d61c5124b4850a816",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/mallr_03.gif",
+   "bytes": 3544,
+   "sha256": "6a6c6f45d744622b932584581e3ea1560477b3b06e9a319a10dd4dfd4e9bd1db",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/malr_03.gif",
+   "bytes": 3505,
+   "sha256": "aa530bfb3c3384acb9ea66954712e38f7d711529bfc7d914469e26867b8eaef7",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/lmenu_30.gif",
+   "bytes": 1609,
+   "sha256": "822f67e027a8c35c2d83955c902d669018068cf98646ddbe253e9121d15bff28",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/lmenu_31.gif",
+   "bytes": 1617,
+   "sha256": "476098b3524a998575686e7ca6b52df37dcc3fb7ffb5c2dcfdac38503b943f21",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/lmenu_32.gif",
+   "bytes": 1822,
+   "sha256": "3833c4162c0bb8d12df134721be9331c86664643764430771f0063102e8047c2",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/lmenu_43.gif",
+   "bytes": 2156,
+   "sha256": "d4c765769ad85c2324e1d4ae622ea9b637deac5b4698da51c7a5bce22f963eb5",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/lmenu_44.gif",
+   "bytes": 2203,
+   "sha256": "03badb0fdfcea447cea17e663eacb63b17c98ce75ddbaa945f9d6f7478eaedc6",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/lsmenu1_30.gif",
+   "bytes": 1734,
+   "sha256": "980892f787cf19d5fbeccaeccbb0b22d500b296608a829d7abddce18970de9e6",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/lsmenu1_31.gif",
+   "bytes": 1714,
+   "sha256": "eb98c32bc3856a07538de248fc53c77037b502c4da81bd4b19fa006415dba70b",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/lsmenu1_32.gif",
+   "bytes": 1954,
+   "sha256": "27c022cbaee4dba0dc91ac4ff36e3d58e04e440c8833b35595e1678ab7324c95",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal6_01.gif",
+   "bytes": 2170,
+   "sha256": "d1ab495bd8880db02a4586137f1a3402fff785fcc2df0759cc4e56eab3c0a3c2",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal6_02.gif",
+   "bytes": 2119,
+   "sha256": "78840cd7f46bcd517b72b4ed158b72e8c67ea855c3c7a6a9e8d745eb029d45b5",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal6_03.gif",
+   "bytes": 2137,
+   "sha256": "bc991fe5095127f798a1f7c97a444a9303de2b1e68c8d1a0f5fee24354522e43",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal6_04.gif",
+   "bytes": 2164,
+   "sha256": "afd3e0e25d2f7227195701b3db41b791b46baeb3f1f417b4a92d0f5f389fedd0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal6_05.gif",
+   "bytes": 2120,
+   "sha256": "069bce2c227a3e15092f0531e53067c1d8a05ec6527c9feedb0c42245efa1feb",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_06.gif",
+   "bytes": 3494,
+   "sha256": "64cdc9e0db4022aab8eb076a404d714ed551cdf5cc792033110035a9c3148e78",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_07.gif",
+   "bytes": 3408,
+   "sha256": "2b3b061dfbb1e5cce623e89c16eaf57035e7a4b43ec065c744ac52b371c5c20f",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_08.gif",
+   "bytes": 3426,
+   "sha256": "74b0f90070d7c9f1156fd6eb577f79c3024c8bc11182e8226dcba89a7c1f889d",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_09.gif",
+   "bytes": 3461,
+   "sha256": "19ab02181b4364ae4a36b1ad8c9140d89108a1ca9a4471a05e30458a4f9aa34a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_10.gif",
+   "bytes": 3468,
+   "sha256": "b0f0f9457b99c8fc0a7cf72528e330def6b23ce762d2cc839732e7b59badc454",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_14.gif",
+   "bytes": 2182,
+   "sha256": "e565dceab230dcd2d59e56440d4a0f3a20425d88076e99ed03763b2b5d57ca3f",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_15.gif",
+   "bytes": 2082,
+   "sha256": "bbe02c764284c2f25096504defb8b919117b8bf90a47cf804ab95d4db37a2f66",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_16.gif",
+   "bytes": 2142,
+   "sha256": "0e765a24da223b5addd84f73322018c1bd908ea14c375b6bbf6a3183fcc936c4",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_17.gif",
+   "bytes": 2145,
+   "sha256": "5382ca4e4cb2d496c318806e47d41f008d5487019b175e55ed915ef0ceadd887",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_18.gif",
+   "bytes": 2101,
+   "sha256": "6ba0f5ba96a6f22bad62f87cf2434b9fd2b874a432a2dd551f4114689a8d3eaa",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_19.gif",
+   "bytes": 2110,
+   "sha256": "e67c63ae04d1057f2e9515e6524e58981b4cd5d8a2f92196ed09bd648980f331",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_20.gif",
+   "bytes": 2106,
+   "sha256": "7fcebd4e5182247f1f47fb93a74fb3809c49f49858c39785664e02006a8dd0e5",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_21.gif",
+   "bytes": 2105,
+   "sha256": "f94eaa499d701363ca8695772ad3d21580474937c660840fbd26ff8a7c122856",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_22.gif",
+   "bytes": 2141,
+   "sha256": "f144bae308c210637403d688acef2c708916ad970a8d6e387b654a36ce4d70fc",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_29.gif",
+   "bytes": 1486,
+   "sha256": "5bdd5d854e562dfb90737c0d1adbe4560f28fde5f35c0ee602d936f1eb0300ce",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_30.gif",
+   "bytes": 1507,
+   "sha256": "f29e85766237bbce318687549bdccffd4a83213e3ec947962cb07d2627737aa1",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_31.gif",
+   "bytes": 1462,
+   "sha256": "6e410bf9fd46404f8c52d75a0c6b6277d41d794a00f8619e2da0f518273ca8ce",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_32.gif",
+   "bytes": 1482,
+   "sha256": "8e2b1cff1078fd4749eb070fa06ac1fec9d0d7a0e8a55ca5a8e75979b4520c1d",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_33.gif",
+   "bytes": 1476,
+   "sha256": "1825fd7d3cb7c11e7cff906b78e5b4c7497e273ffbf32220d20242a637ca0cc4",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_34.gif",
+   "bytes": 1467,
+   "sha256": "bed193727ee32a3b3500222206b06b469dad4410731d889336efd59b898104e5",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_35.gif",
+   "bytes": 1467,
+   "sha256": "82e634707bbf520879a8cb8d40f8e61195d3e123a8a2421e48b971d1a47a9c70",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_36.gif",
+   "bytes": 1495,
+   "sha256": "f628350637512f91b1debff6f00bd478f8f7ec4ee7def742963cc8f311876467",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_37.gif",
+   "bytes": 1508,
+   "sha256": "a229f647fa275421930ad4b04579d7d80fa4d3b705f298aeed93d4e4b5a9492d",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mal_38.gif",
+   "bytes": 1461,
+   "sha256": "641f85f06e8ec8b4689fe0bf54c5910025ac765013274ddc26fad151a1d08258",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall1_06.gif",
+   "bytes": 3482,
+   "sha256": "d72b6252d0f9e301b01844b1b5c8eaa3b7fa8186c39525a58a1feca6e50a35c0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall1_24.gif",
+   "bytes": 2609,
+   "sha256": "8a093d542cc777e8509c7a14b0cf7af8ac9eab360914bd8de3c69ff08652211e",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall1_25.gif",
+   "bytes": 2097,
+   "sha256": "f6512898cd579ed479febf94413137b31066d764fd686f771f4cbb7f336db155",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall1_26.gif",
+   "bytes": 2127,
+   "sha256": "5da2f9bee5038b20e6ecd302c9fccac96699f0d9178c611292dec9a9127c0377",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall1_27.gif",
+   "bytes": 2131,
+   "sha256": "5b4fafe5dff7863ae1ca26752e204cf66c2c1b1f27080653a2f1dd2e75952361",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall2_06.gif",
+   "bytes": 3497,
+   "sha256": "4b4d2b66a43160725ad8d299d16b1be3038c77b741107c12faf862d4d98b23e6",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall3_06.gif",
+   "bytes": 3535,
+   "sha256": "5593e919fb7cc333511e7cffe2c1ee248c5cc468b3d4d00fc4481b4dec25f114",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall4_06.gif",
+   "bytes": 3532,
+   "sha256": "e3e44bc4712c75a68cd3f30d50483d5f769f0fa51d3eea10929f732768d4c2a9",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall6_01.gif",
+   "bytes": 2244,
+   "sha256": "4fed05ff821d75ccda893f64750618d8812799da2d339f6217291f0d50833c99",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall6_02.gif",
+   "bytes": 2201,
+   "sha256": "eb3f22d93b1be6abba4a1a22a3a318cf43c51a0eb2b89762bae9fd90bcd695a5",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall6_03.gif",
+   "bytes": 2238,
+   "sha256": "3f49b553fcdf23fc7cc5896b35601cfd66cbbe8beec3c5bacc5e231e10661237",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall6_04.gif",
+   "bytes": 2245,
+   "sha256": "80adb6592014bae33c68084f7cd2dee7943bf1ee727254fca5af7eb791ac7d4a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall6_05.gif",
+   "bytes": 2212,
+   "sha256": "64dd7931bd699a52c11e14df13d3177dacaefc6f9bbfe526ce23d44fc8743358",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_06.gif",
+   "bytes": 2249,
+   "sha256": "93f1b46a8e1bf14c55ad357f9fce08e7a7fda6d49074f553a526fc490504e4d6",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_07.gif",
+   "bytes": 3428,
+   "sha256": "192aaa10a8e1c8706f5340c32d2c90e1e52a9058c3d8f7a1b819ae107c1c9a6d",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_08.gif",
+   "bytes": 3433,
+   "sha256": "2e1216e9973e199da75803899d0a1920f93898a0276b8f0ecc48365e7c418b27",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_09.gif",
+   "bytes": 3342,
+   "sha256": "60f1319caeaaef53399492b4fdff8a4286e90e8a9316ec656a995b80e093680a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_10.gif",
+   "bytes": 2919,
+   "sha256": "ee775af2587d7bc42eacae9bbabf382e4d5d6f1b4e15bdfb0a0de5752da01273",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_14.gif",
+   "bytes": 2263,
+   "sha256": "7368576e4cb31c07ea0f35f893280e6c2d8acd5c78d6ef1d359def42d4a8e13e",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_15.gif",
+   "bytes": 2170,
+   "sha256": "c0b3eb00ced95a4f769452084a2ecf9c06129e25aa16a548142d4963bc388127",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_16.gif",
+   "bytes": 2219,
+   "sha256": "82acd1881d806d35e8955532cccd01da4bc6dc9f8b216396590bbb83ea403fef",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_17.gif",
+   "bytes": 2229,
+   "sha256": "271134f06e73ed1ccf375fa97f89337c31876d2044d46d998d41c9a341ac8bc2",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_18.gif",
+   "bytes": 2176,
+   "sha256": "07e8c749420af58ca2256c1f8c6e701c26ae6d3c2fc66fba17079f0a4587bff0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_19.gif",
+   "bytes": 2194,
+   "sha256": "d137d385c4385df43768bbeb2c320936d3aed38b763e32d0a052a725840f3099",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_20.gif",
+   "bytes": 2211,
+   "sha256": "2df61872eae0d345f0a57dab35212c4d3a07a6b012d0c3a1e0352a1ab82c4c40",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_21.gif",
+   "bytes": 2181,
+   "sha256": "08c65ca3b7a6776dec2ad01c17562a66de1d72b3737e340a267b27c6bc6f2222",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_22.gif",
+   "bytes": 2253,
+   "sha256": "8d2b94494a2e86f09874e1dff4aa7235e10dcaf226aeebbefcbaee2d528bdef1",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_24.gif",
+   "bytes": 2353,
+   "sha256": "5e879d224de4b8e667f748d52a580f9ff7df90a7f473b8f56d902aaba9a69a88",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_25.gif",
+   "bytes": 2295,
+   "sha256": "16aac7fe12e07cfdd7f9bba3273ace7b1470b2630e554ff412a92bddcfcd6c47",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_26.gif",
+   "bytes": 2289,
+   "sha256": "593585bb6d0e5255e7e0c7f09e7957b53d8bcdf7dd798360ea07f5f3bee2a3c4",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_27.gif",
+   "bytes": 2347,
+   "sha256": "ceb46d83a4c33d9abf9f6e5c7ed14202d935a52b98d76b4557d50709faec4917",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_29.gif",
+   "bytes": 1457,
+   "sha256": "99336453299d0edd3d3b64fa1b91504416e335a8bf058bdd9d0f1402c355e810",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_30.gif",
+   "bytes": 1495,
+   "sha256": "a16aece5a916c81ebf033266e9817e239f6f1e5d4aae5fe78887ef0099af3e3c",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_31.gif",
+   "bytes": 1460,
+   "sha256": "526054256a87eb0a16c0440fd20726b879c4768c41d2988844e7e8f5177b6c81",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_32.gif",
+   "bytes": 1461,
+   "sha256": "4f8a0cc62f5dbbd55a9a1bffbcc137a8c59fab7917bdc10b604900c0fa7252fa",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_33.gif",
+   "bytes": 1463,
+   "sha256": "717046ed9f778e9ad9020f2a84a0fe4674489305b05766ccf8a5863119aae82d",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_34.gif",
+   "bytes": 1461,
+   "sha256": "4776b1428b417e22b1738e905d8b008c6f20e2bc67acbcbc21c477b6b5f191e7",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_35.gif",
+   "bytes": 1451,
+   "sha256": "57a123fcbb004f90ffdaaf95fdf24594f2d0ca4f1dd6267758148f55b8618f30",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_36.gif",
+   "bytes": 1463,
+   "sha256": "fe5bdf0af241ee7d05a1fb1b690d1c156d0bca62be110e011d20d8cc784aeab7",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_37.gif",
+   "bytes": 1483,
+   "sha256": "e756124a71eb8f662ed57d7df9f91e4f70838c73f00ed153566e099b04f1bac5",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/mall_38.gif",
+   "bytes": 1447,
+   "sha256": "e5a71a1b5abc262da8fc306fbde8bf0c0c2de2cbe83df2ffda1c23245d2ce967",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/rightclose.gif",
+   "bytes": 1707,
+   "sha256": "cdd92bf82f3f5726c534d935981e1a6996c8eba4da945ff309b2925fc2125e2c",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/rsmen_14.gif",
+   "bytes": 2461,
+   "sha256": "fba5ee61a2e977cbfbe6541443170d4dd35a9544cefd83bccea8cb475f0b0127",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/rsmen_15.gif",
+   "bytes": 2468,
+   "sha256": "14ef172a3d878ab2f7c9350bf3fad55098efde98895b197fb9f454610cb2add7",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/rsmen_16.gif",
+   "bytes": 2419,
+   "sha256": "7cb044ac8448976b56ffd6a3894bc3e875df4bd8f23e552dce6b167aa097c63d",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/rsmenu_14.gif",
+   "bytes": 2691,
+   "sha256": "6eaa8009af9e8e55dfd0992423e8237b1c20fc1a2e509768af2a3f211f480a9c",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/rsmenu_15.gif",
+   "bytes": 2606,
+   "sha256": "036348d88b27e236443e3b409c68e38ed1c8e4daddc909d16f4bf4cd761f57bc",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu/rsmenu_16.gif",
+   "bytes": 2618,
+   "sha256": "d8725f7fb91cde4a6fb41d261ac8b8d8f5b10432f270c8d2da7cad709eec13b2",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu_06.gif",
+   "bytes": 11743,
+   "sha256": "def7570c16befe2d570289685f0d973e1cdffef8227e5c600c06e20c392a0389",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/menu_25.gif",
+   "bytes": 7442,
+   "sha256": "36727c802620d2c74eb0eab19356bb8d1c65b8618144eb36ea427dc52be468b4",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/past_test.gif",
+   "bytes": 1711,
+   "sha256": "1410eec6025ee090dfe00137271231dc13ffda909e5bf08c5c4dd91e244090a0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/query_03.gif",
+   "bytes": 1446,
+   "sha256": "44732913cb63d25e0c1675fd34bbcd222ff43a02b19881772f3111acebad37c0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/rightclose.gif",
+   "bytes": 1707,
+   "sha256": "cdd92bf82f3f5726c534d935981e1a6996c8eba4da945ff309b2925fc2125e2c",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/rt_bg_04.gif",
+   "bytes": 50818,
+   "sha256": "c0964ed5c3f0b49f35257120c090c2fdc9bd52069095de942edb06cb6ffd53b3",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/s09.gif",
+   "bytes": 4975,
+   "sha256": "4e20546799608ab2db4bdab05b95c42c3bbf73795c9b08d976a9af2514f2c8a6",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/s09_btn_03.gif",
+   "bytes": 1310,
+   "sha256": "a90c662f72503a2a3aad16a3b2fad93200d91e4ee5d6a244f291ed9618437c2a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shoping_07.gif",
+   "bytes": 595,
+   "sha256": "213c69e60febf2641701393ec2e9f41fff4c73e6a405a9c52287269761b6d8fb",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shoping_09.gif",
+   "bytes": 359,
+   "sha256": "6af52bfe8aa6c116ea29e3aaf105ba88aa9df05467f86d72bc71da1c9329aace",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shoping_10.gif",
+   "bytes": 351,
+   "sha256": "980056b11283c15a5501963eac2c67b83ca2b64d0f3e8708a5dd71a729e4dd09",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shoping_12.gif",
+   "bytes": 209,
+   "sha256": "f48791fe8bf5ae67844de9aac0aab8df77e73fb55a1b58d9ab6a35009e925def",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shoping_18.gif",
+   "bytes": 544,
+   "sha256": "e4f85b927a5327ee247303f1b9cbf1d5c03fee4d43e74d63fac066a3cd66aefb",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shoping_22.gif",
+   "bytes": 785,
+   "sha256": "f5a68ed48cace596de4e6b649f12db186749d2f8d13c44122f5f32f788e98f12",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shoping_25.gif",
+   "bytes": 812,
+   "sha256": "9426914ab65decc81030fb30d91b4b050669a8e0c664e05a68cb7f41e10bb55a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shoping_30.gif",
+   "bytes": 2085,
+   "sha256": "6dc6d6b822a4f7f73e3a0fea6d8c2cec8e4c03142fea1f5aca28a37984fd8063",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shoping_33.gif",
+   "bytes": 2048,
+   "sha256": "6da7086787cfdbe05f5ca4c1bbc871c02fe32d7c148c2aa43409280a9b60ed7b",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shopping_30.gif",
+   "bytes": 346,
+   "sha256": "342e68e57565788ac73d9457f8d8288a7b02b6156346aa6cc80ac48231972a1b",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shopping_31.gif",
+   "bytes": 82,
+   "sha256": "5f4ac3bc8c7ac5633f19c7494040d3e68f1e4d394ea644e82768a21f3f5af032",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/shopping_cartbg.gif",
+   "bytes": 38705,
+   "sha256": "4c796e4b1186840e8f94613e2ec071e4fafd054f00842eee392a73f073c73937",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/ss09.gif",
+   "bytes": 4762,
+   "sha256": "c180531ba70c161ce31225a934c929a76670861b9bb28cefce58ecf86a1a98a3",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/sss09.gif",
+   "bytes": 4729,
+   "sha256": "a13962ade559a7b1a04290853c3161dd92ac7ef1f71ecc7900898826a656b039",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/sy_03.gif",
+   "bytes": 1944,
+   "sha256": "adda5ed816f648ce207190dcac1b15b5066a0c1b9d55b8ab9ebbd365ed2b916a",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/test.jpg",
+   "bytes": 16992,
+   "sha256": "1f128502ec46272f519a35915a87012544dfeb3f6bb3e783113446ede4be7b84",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/user_mallconbg.gif",
+   "bytes": 31008,
+   "sha256": "2cc9f9b0ae60896c6c999d3c870b91f0b4f3916dfcc1ad0de14cac0964830235",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/images/user_malllist_03.gif",
+   "bytes": 5443,
+   "sha256": "0a92c0db195cd48c34a49aea0ab9d7bada0a50fc35d1817396346829ad0ff7b7",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/style/iepng.js",
+   "bytes": 7359,
+   "sha256": "0c6acd30af8bb892f590d1813b948b048a83ea8575fe9a72c0c5a73cdadb9620",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/style/iepngfix.htc",
+   "bytes": 3254,
+   "sha256": "c95aeff1adce655e5ca07595b2ba1a1d5bd724370a8016559df845858f702196",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/2009/shop/style/main.css",
+   "bytes": 14632,
+   "sha256": "f77159f5431da699266b28d7fa20fc8072e17c8754fda6540a5a75d570cedb6c",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/call.js",
+   "bytes": 929,
+   "sha256": "82236103c5d77211feca0c5368c56e5b1e0098a5ab9b62742ba91f48eff62507",
+   "transform": "R5"
+  },
+  {
+   "source": "common/market/cart.js",
+   "bytes": 4548,
+   "sha256": "807fc7770ed426ec047308abb26ee4d83ee0f64f6693b6ae89ef40c4036de75f",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/fail_qb.htm",
+   "bytes": 1067,
+   "sha256": "a0977b7328c2810d0a515b198bce7c160af13af6697e5d75ead2587aedd15cbb",
+   "transform": "R7,R9"
+  },
+  {
+   "source": "common/market/fail_qb_2.htm",
+   "bytes": 1216,
+   "sha256": "0ca128fc84e3016206b4cb0b71b5981a364a952b7f4022d1de83c8127211652b",
+   "transform": "R7,R9"
+  },
+  {
+   "source": "common/market/fail_qd.htm",
+   "bytes": 1196,
+   "sha256": "6684f4866c4df501e5f2b527c96a50e8a603684edcb190cdb517b16383ea168e",
+   "transform": "R7,R9"
+  },
+  {
+   "source": "common/market/fail_qd_2.htm",
+   "bytes": 1209,
+   "sha256": "5557328b63928fea5c45267f70f6add1ab8a3606ff9c2e5286731b92e754d21c",
+   "transform": "R7,R9"
+  },
+  {
+   "source": "common/market/fail_yb.htm",
+   "bytes": 2157,
+   "sha256": "b6ba6e099cd5970bc5a7c1422330918fcdee5fca23f9678179940f5c71607dbe",
+   "transform": "R7,R9"
+  },
+  {
+   "source": "common/market/feed.htm",
+   "bytes": 2834,
+   "sha256": "0a5307cead17a235f4b1c3cdc687be330e48dbff93f98f93a54b66cb320811e5",
+   "transform": "R7,R9,R10"
+  },
+  {
+   "source": "common/market/frame.htm",
+   "bytes": 5945,
+   "sha256": "cda960651e6656ea8c16ffe8ef76ed4645323978e7359462e211b823061054c2",
+   "transform": "R1,R2,R8,R10"
+  },
+  {
+   "source": "common/market/frame.js",
+   "bytes": 16182,
+   "sha256": "b88e6369094812b8209ee6ea969f4a98b7390f6e1ff87c95da9923dcdc750b84",
+   "transform": "R2,R8"
+  },
+  {
+   "source": "common/market/jstemplate.js",
+   "bytes": 471,
+   "sha256": "e440486c61991e0bdb9c46dd413141f059a6b2bb1249ebfa6e25d99d2e1769cf",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/market-confirm.js",
+    "bytes": 14398,
+    "sha256": "8b663771d2d7bb043d9aad6bd3f460d3dfe3bc09ccf2d8e244dd6955a80fda36",
+   "transform": "generated"
+  },
+  {
+   "source": "common/market/market.js",
+   "bytes": 12626,
+   "sha256": "40f2ee8ad120f34d26298c8c31827e6d1fa5d4e4aaadf36f75ef5f842c313546",
+   "transform": "R6"
+  },
+  {
+   "source": "common/market/presented.html",
+   "bytes": 9065,
+   "sha256": "22c7370be026d76e9cc2a0ccb9cd5fcadc0129fde1baf5f9364e982ec547a54b",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/quicklybuy.html",
+   "bytes": 7177,
+   "sha256": "5cd801b6b2ad3c4d03d2646a2d457d0e88e693ae31ebc5e8ff79b009205b8440",
+   "transform": "R9,R10"
+  },
+  {
+   "source": "common/market/shop.htm",
+   "bytes": 19759,
+   "sha256": "b667f8bdaf2f01e5bd06104c4e869a8e7309c412692265f0d0e272ee655d9e13",
+   "transform": "R4,R16,R18,R20,R10"
+  },
+  {
+   "source": "common/market/shoppingcart.html",
+   "bytes": 10372,
+   "sha256": "696c625330318b493375e0c69cc7cbd7192db2d2cf4554d0d083037b9783fabb",
+   "transform": "R9,R10"
+  },
+  {
+   "source": "common/market/showPic.swf",
+   "bytes": 1565,
+   "sha256": "40dd524e9fbe94935682db274b803779c3ac1d8be29555077050b968cbbd47d0",
+   "transform": "none"
+  },
+  {
+   "source": "common/market/store.htm",
+   "bytes": 15353,
+   "sha256": "caa4243ec93787a7abcf027aa06910a445e12c490f603a15e58624b58660a50f",
+   "transform": "R4,R8,R17,R19,R20,R21,R10"
+  }
+ ]
+}

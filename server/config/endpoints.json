@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "kind": "qqpet-deployment-endpoints",
+  "deploymentId": "legacy-community-home-20261008",
+  "mode": "local",
+  "public": {
+    "loginOrigin": "https://127.0.0.1:18443",
+    "webOrigin": "http://127.0.0.1:80",
+    "game": {
+      "ipv4": "127.0.0.1",
+      "port": 18001
+    }
+  },
+  "listen": {
+    "login": {
+      "ipv4": "127.0.0.1",
+      "port": 18443
+    },
+    "web": {
+      "ipv4": "127.0.0.1",
+      "port": 80
+    },
+    "game": {
+      "ipv4": "127.0.0.1",
+      "port": 18001
+    }
+  },
+  "internal": {
+    "communityOrigin": "http://127.0.0.1:18089",
+    "marketOrigin": "http://127.0.0.1:80"
+  },
+  "admin": {
+    "listen": {
+      "ipv4": "127.0.0.1",
+      "port": 18090
+    }
+  }
+}

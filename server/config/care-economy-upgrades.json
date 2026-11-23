@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "transitions": [
+    {
+      "from": "c621c770d91d8801150f788e75dd7124309a0274b78b995dee526b204184c5b6",
+      "to": "cde71c27d98f66e5e96ab951353a3498f6f68c3667bd72a5c6d047f7cae50476",
+      "reason": "参考目录新增功能品 28 项与药品 22 项；既有 775 项名称/分类/效果/等级/价格逐字段不变，仅补 class/mood 字段。功能品改 price=0（待配置、暂不可售）。"
+    },
+    {
+      "from": "cde71c27d98f66e5e96ab951353a3498f6f68c3667bd72a5c6d047f7cae50476",
+      "to": "1260f2a06d59b5f7831ebc00ee496479d23560708e035dbbad66684608aee615",
+      "reason": "补充收录 5 项食品（超级火鸡/南瓜布丁/新奥尔良烤火鸡按参考属性；爱心便当/腊八粥后续因冲突撤回）：效果/魅力/等级取自参考，价格 0。既有 825 项逐字段不变。"
+    },
+    {
+      "from": "1260f2a06d59b5f7831ebc00ee496479d23560708e035dbbad66684608aee615",
+      "to": "6811ed301ba56588a07283b3b363fcf44171fa241ec5d76da17a33eb53d73866",
+      "reason": "撤回 2 项效果冲突食品（爱心便当/腊八粥：同名两组不同效果值，按序定值不可复核），列入 effect_variants_conflict。其余 828 项（含 3 项已接收食品）逐字段不变。"
+    },
+    {
+      "from": "6811ed301ba56588a07283b3b363fcf44171fa241ec5d76da17a33eb53d73866",
+      "to": "260da2a57c5cbf73b6f408ffb064d6e0f2344bb0cea3e8cecb359073b4c38f04",
+      "reason": "恢复两项冲突食品的原身份（爱心便当 cid=10000860、腊八粥 cid=10000865）为明确效果待核状态：保留原 cid 与已持有库存，效果值不选定，不可售不可用。其余 828 项逐字段不变。"
+    },
+    {
+      "from": "260da2a57c5cbf73b6f408ffb064d6e0f2344bb0cea3e8cecb359073b4c38f04",
+      "to": "1574adc3533c136e35d31a40b33de66a2b8865ac1d7d8095b3e64ffbc67e64d9",
+      "reason": "按用户批准的本地效果选择落定两项食品：爱心便当 cid=10000860 hunger=1440/charm=8，腊八粥 cid=10000865 hunger=900/intelligence=15/strength=15；移除 effectUnresolved，保留原 cid/图标/编号与 food/subkind=0，价格保持 0（购买拒绝，库存按新效果使用）。其余 828 项逐字段不变。"
+    },
+    {
+      "to": "5167da228e97761082b0f6ab5b0797dd2620eb5640455fb21f347eb04dd73a22",
+      "reason": "2026-10-14 用户提供完整物品、价格与等级规则",
+      "from": "1574adc3533c136e35d31a40b33de66a2b8865ac1d7d8095b3e64ffbc67e64d9"
+    },
+    {
+      "from": "5167da228e97761082b0f6ab5b0797dd2620eb5640455fb21f347eb04dd73a22",
+      "to": "ccf0fb54cdb9dc4123ea3538040b79e91a117a0f0f175639f36c8d1ff6f45698",
+      "reason": "User-approved balance: 30-minute classes and graduated job salaries; IDs, completion counts, inventory and receipts preserved."
+    }
+  ]
+}

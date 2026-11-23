@@ -1,0 +1,870 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "fish-boy",
+      "title": "捕鱼（男企鹅）",
+      "group": "desktop",
+      "minLevel": 10,
+      "sex": 0,
+      "source": "补充/游戏补充/桌面/GGFISH.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "fish-boy.swf",
+          "size": 701932,
+          "sha256": "b564d56fb5fe110cec5f2bc0387654edf8d1c85f8eb7af5b05214d1f610bdaf6"
+        }
+      ]
+    },
+    {
+      "id": "fish-girl",
+      "title": "捕鱼（女企鹅）",
+      "group": "desktop",
+      "minLevel": 10,
+      "sex": 1,
+      "source": "补充/游戏补充/桌面/MMFISH.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "fish-girl.swf",
+          "size": 701876,
+          "sha256": "515b184d8e53ce556ee0c0f4c12b0f433762a9f0464b94f2c65342c3b5bda2e3"
+        }
+      ]
+    },
+    {
+      "id": "cannon",
+      "title": "超级泡泡",
+      "group": "desktop",
+      "minLevel": 10,
+      "sex": null,
+      "source": "补充/游戏补充/桌面/大炮.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "cannon.swf",
+          "size": 541090,
+          "sha256": "132983bff02efa344dd0f0b1c96139944a66dff30d7f1fd3f698bec69f79dda1"
+        }
+      ]
+    },
+    {
+      "id": "stars",
+      "title": "摘星星",
+      "group": "desktop",
+      "minLevel": 10,
+      "sex": null,
+      "source": "补充/游戏补充/桌面/摘星星.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "stars.swf",
+          "size": 598472,
+          "sha256": "87e573aad836d4ea3ff168f55c9ba9128edf8b1a651382bc875f6be3550c2fac"
+        }
+      ]
+    },
+    {
+      "id": "blocks",
+      "title": "搭积木",
+      "group": "blocks",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/Qpetdajimu.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "blocks.swf",
+          "size": 933742,
+          "sha256": "34c5491f02d1963ec752fa794ca998cc42861386fe0e9dcd53ffbcbe0a593cfd",
+          "originalSha256": "56b57345d99360c4c0a1f41586f3b07cbe81475f07edf8751993d61a6d7d1539"
+        }
+      ]
+    },
+    {
+      "id": "plates",
+      "title": "翠花叠盘子",
+      "group": "plates",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/QQdpz.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "plates.swf",
+          "size": 1049293,
+          "sha256": "b879cecf09e6aae696952b009046f429bfdca5795ce162da7d6868827ec79d56",
+          "originalSha256": "1dee2f5fbab1dc172c1d9a18d7b90e96fc65d3dfe0816691558d3e136b4d2e15"
+        }
+      ]
+    },
+    {
+      "id": "taekwondo",
+      "title": "跆拳道",
+      "group": "taekwondo",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/QQtqd.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "taekwondo.swf",
+          "size": 3292243,
+          "sha256": "0851e0a8a75b590f68b2f5a58c8c756739cc7b6d9fb519962be8f35ad6ddf9c5",
+          "originalSha256": "33deb84cd40e98b708b954bf9bee9fafaffbe4ef8cc92f79670b71ca5bdeee1c"
+        }
+      ]
+    },
+    {
+      "id": "carnival-7",
+      "title": "棒球",
+      "group": "carnival",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/q宠嘉年华/baseball.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "carnival-7.swf",
+          "size": 967816,
+          "sha256": "5e4d3fcf3cadb6d43bbe466ea091cf4091094a9f9a40ca3ff526926c7e293c8b",
+          "originalSha256": "b9a5e2bcd20d231ac5cbf263b42d383774278dac761468d1c819f34852b0b92e"
+        }
+      ]
+    },
+    {
+      "id": "carnival-8",
+      "title": "跳高",
+      "group": "carnival",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/q宠嘉年华/highjump.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "carnival-8.swf",
+          "size": 314273,
+          "sha256": "a9e3c5e02245d314ac29e63fda3e9fbef1859f02e556d69f086ce989f8674fd4",
+          "originalSha256": "393f664c59b9f7667292a1ea1184a8fb307c108ec5dd11e273d3a9fe82f27470"
+        }
+      ]
+    },
+    {
+      "id": "carnival-9",
+      "title": "赛跑",
+      "group": "carnival",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/q宠嘉年华/m9.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "carnival-9.swf",
+          "size": 176779,
+          "sha256": "59b35c2df6fe37b9983f014d765d0ef8431b34ac6cede893eb7e7fcdea8a1054",
+          "originalSha256": "f21b6614c04261c01da18e843c9bbe7e450c4c43631eb3adf894f6dc87f47861"
+        }
+      ]
+    },
+    {
+      "id": "carnival",
+      "title": "Q宠嘉年华",
+      "group": "carnival",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/q宠嘉年华/n1.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "carnival.swf",
+          "size": 342589,
+          "sha256": "08fde5eb4ee77b7b62fbf04771502fa912bff9d56d44c9dc1c0fe1d50d24205f",
+          "originalSha256": "59586eddb6a9d6461251dbf68ee2538935547c2a1e1fc9060c7ff14db402eb02"
+        }
+      ]
+    },
+    {
+      "id": "carnival-11",
+      "title": "跳水",
+      "group": "carnival",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/q宠嘉年华/rockcraft.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "carnival-11.swf",
+          "size": 1280310,
+          "sha256": "6892353230e3ae01ee8ca71cc82c01079a1b3a0ee1c117d5fd4db92d3fdf9a30",
+          "originalSha256": "1d2e7164c14f4971fdea3bfd607a703471b25227c2189685b9672c64d6cca698"
+        }
+      ]
+    },
+    {
+      "id": "carnival-12",
+      "title": "游泳",
+      "group": "carnival",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/q宠嘉年华/swim.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "carnival-12.swf",
+          "size": 1698332,
+          "sha256": "5b46d4a36b0ebc97f6c3c3b3a7d51b35d867d11a948e0a718074a4bcfaad2e06",
+          "originalSha256": "e2fb8b273194bac87f797216bc9feffe625f987b4bfab5db9382b57243e1b127"
+        }
+      ]
+    },
+    {
+      "id": "carnival-13",
+      "title": "踩气球",
+      "group": "carnival",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/q宠嘉年华/thegame.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "carnival-13.swf",
+          "size": 310200,
+          "sha256": "f45051043c38f52c1a9e9a9372289dfbd0cd6c6cd76b4c72bcd3cedcd6534273",
+          "originalSha256": "3255bf4eded017e6f86d306f5c23cf068f9a5ba0546495e09934098678ae3ac8"
+        }
+      ]
+    },
+    {
+      "id": "adventure-14",
+      "title": "1起航",
+      "group": "adventure",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/冒险岛系列/1起航.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "adventure-14.swf",
+          "size": 4675486,
+          "sha256": "c4002b77f732a2bb899235641fbbd2d659fec580e4a57e833b64325f57135a03",
+          "originalSha256": "a5a846022e21bcf019fe24e2ae3e6acda57f474e202c94eebfb506234a81d88b"
+        }
+      ]
+    },
+    {
+      "id": "adventure-15",
+      "title": "2爱情之爆发力(速度减慢)",
+      "group": "adventure",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/冒险岛系列/2爱情之爆发力(速度减慢).swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "adventure-15.swf",
+          "size": 3839102,
+          "sha256": "4eabc5e104e959b56328210d8ed1a447aa32b30a18e34da5c8401bc660f35a39",
+          "originalSha256": "5ad3d44209c76a853d0cb576556fa2eb62194aae3828869f84e7217e4d8d6536"
+        }
+      ]
+    },
+    {
+      "id": "adventure-16",
+      "title": "2爱情之爆发力",
+      "group": "adventure",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/冒险岛系列/2爱情之爆发力.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "adventure-16.swf",
+          "size": 3821022,
+          "sha256": "9362f798fea6f64c12c1b1c1ce6a0759689e3408f5d1ac0f0075e08070c7e5d4",
+          "originalSha256": "d4874eca94ea4756fbd70d183bb390a96b08e2a781228b7c1f257ece1f224334"
+        }
+      ]
+    },
+    {
+      "id": "adventure-17",
+      "title": "3贼窝",
+      "group": "adventure",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/冒险岛系列/3贼窝.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "adventure-17.swf",
+          "size": 2874529,
+          "sha256": "f0e925a0a507fd0c7ce903a5e89c47da56e0156797d3e4025edfdb140fdf1137",
+          "originalSha256": "104d7ce5d466ed7bd117c57f83b3dab94fb566ec93ac0a083b3e2631fcf86fea"
+        }
+      ]
+    },
+    {
+      "id": "adventure-18",
+      "title": "4密室",
+      "group": "adventure",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/冒险岛系列/4密室.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "adventure-18.swf",
+          "size": 3106128,
+          "sha256": "22fbedd75a09f2598175427b1f41e634d3b738a673c0ccb25d4345cd59361dd6",
+          "originalSha256": "fc4c489426b4fbafac0b500093a43491869fd30bbd341890b7cfdc6355602c85"
+        }
+      ]
+    },
+    {
+      "id": "adventure-19",
+      "title": "5黑暗之眼",
+      "group": "adventure",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/冒险岛系列/5黑暗之眼.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "adventure-19.swf",
+          "size": 5550942,
+          "sha256": "a45f57fad62c9900f2072a0d0da11ed354f5b8f376ecef4857fadf6e132ce9a3",
+          "originalSha256": "a2bb68b8e97e7454e0b9ee84def0b138be754bbe091780acb73814fc43da63cd"
+        }
+      ]
+    },
+    {
+      "id": "adventure-20",
+      "title": "6巨树",
+      "group": "adventure",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/冒险岛系列/6巨树.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "adventure-20.swf",
+          "size": 6388152,
+          "sha256": "085da5739bbb9a27949acb1dacec6bcafef5992ca1807344faa6647c9c81060c",
+          "originalSha256": "37775dcb50780c0a9824b6ec0bbb9aeb1af0383123a02aa56fb0d9ad0e8da3d1"
+        }
+      ]
+    },
+    {
+      "id": "adventure-21",
+      "title": "7巨树之颠",
+      "group": "adventure",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/冒险岛系列/7巨树之颠.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "adventure-21.swf",
+          "size": 6277235,
+          "sha256": "7ee4be2aac252cdc262a28a3dbc95e6df3f1930810e38a164e04cb45a84dcf4b",
+          "originalSha256": "f7f95b4658ea15e8ea317c6a8ff25f4e3f7ce37fd07f33958dcec6574011ea3d"
+        }
+      ]
+    },
+    {
+      "id": "adventure-22",
+      "title": "8宝藏",
+      "group": "adventure",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/冒险岛系列/8宝藏.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "adventure-22.swf",
+          "size": 5763578,
+          "sha256": "d1b874bf8b74a9e660e87db301726e5395e7e65ef4806bc02ccd9f70b3a863ba",
+          "originalSha256": "2e29f2672376d2cdb223ebb8d61bb69e01eddfabccb76daf55efcb4ddb528cd4"
+        }
+      ]
+    },
+    {
+      "id": "room",
+      "title": "密室探险",
+      "group": "room",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/密室探险/main_qq_mstx.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "room.swf",
+          "size": 958601,
+          "sha256": "fa6fc6a150ac0518f55a66aae50e250edf400d1197df042db70c8867c5658990",
+          "originalSha256": "41cc73a27918b4ff6b953e539e26ab869c05e71c40b6612c42e7f22708802c03"
+        },
+        {
+          "name": "crossdomain.xml",
+          "file": "room-crossdomain.xml",
+          "size": 128,
+          "sha256": "04c0006679ec6d01104aaaacb2da2dd97394744a16e38a5f267bbbe4fcc6ebde"
+        },
+        {
+          "name": "duobaoqibin(1).xml",
+          "file": "room-duobaoqibin(1).xml",
+          "size": 282,
+          "sha256": "5fedb413061529ba4a73aaef5e3ee135f2b76d5ce14459478c5a02b48c9c2c84"
+        },
+        {
+          "name": "duobaoqibin(2).xml",
+          "file": "room-duobaoqibin(2).xml",
+          "size": 112,
+          "sha256": "c8d201dfb2f3015da888b08b9dedb3d67cf1b9e1ee455c3ce39d2135666d192f"
+        },
+        {
+          "name": "duobaoqibin(3).xml",
+          "file": "room-duobaoqibin(3).xml",
+          "size": 112,
+          "sha256": "c8d201dfb2f3015da888b08b9dedb3d67cf1b9e1ee455c3ce39d2135666d192f"
+        },
+        {
+          "name": "duobaoqibin(4).xml",
+          "file": "room-duobaoqibin(4).xml",
+          "size": 112,
+          "sha256": "c8d201dfb2f3015da888b08b9dedb3d67cf1b9e1ee455c3ce39d2135666d192f"
+        },
+        {
+          "name": "duobaoqibin(5).xml",
+          "file": "room-duobaoqibin(5).xml",
+          "size": 152,
+          "sha256": "2aff80a42d750858e71903cd7ef235522ab3d581abf33fb2fb2be023fefb615e"
+        },
+        {
+          "name": "duobaoqibin(6).xml",
+          "file": "room-duobaoqibin(6).xml",
+          "size": 112,
+          "sha256": "c8d201dfb2f3015da888b08b9dedb3d67cf1b9e1ee455c3ce39d2135666d192f"
+        },
+        {
+          "name": "duobaoqibin(7).xml",
+          "file": "room-duobaoqibin(7).xml",
+          "size": 112,
+          "sha256": "c8d201dfb2f3015da888b08b9dedb3d67cf1b9e1ee455c3ce39d2135666d192f"
+        },
+        {
+          "name": "duobaoqibin(8).xml",
+          "file": "room-duobaoqibin(8).xml",
+          "size": 152,
+          "sha256": "2aff80a42d750858e71903cd7ef235522ab3d581abf33fb2fb2be023fefb615e"
+        },
+        {
+          "name": "duobaoqibin.xml",
+          "file": "room-duobaoqibin.xml",
+          "size": 112,
+          "sha256": "c8d201dfb2f3015da888b08b9dedb3d67cf1b9e1ee455c3ce39d2135666d192f"
+        },
+        {
+          "name": "qq_mstx.swf",
+          "file": "room-qq_mstx.swf",
+          "size": 2676709,
+          "sha256": "260e36a97a9d1f0532decfc28fe8bffaf51f2d970057fc1765f4490cf040f28e",
+          "originalSha256": "0399fb3a1bdd911d9f952cb694f039f07723caed60102f13c5f4e53a095c6eaa"
+        }
+      ]
+    },
+    {
+      "id": "other-25",
+      "title": "QQ企鹅的挑战",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/QQ企鹅的挑战.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-25.swf",
+          "size": 1595231,
+          "sha256": "834c646a70e28ed655014cfdacabcc591c06fd222aff69541deeab72cd2955f4",
+          "originalSha256": "11380ec505e2edcc54e00646e487be91bea6fe627199923681b5cef96197aace"
+        }
+      ]
+    },
+    {
+      "id": "other-26",
+      "title": "QQ地下城与勇士之Q宠版",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/QQ地下城与勇士之Q宠版.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-26.swf",
+          "size": 2693971,
+          "sha256": "90b0ec778c8db17231089994fc3d6d8c3dec9e90ce3fbdef3fd65434feee7d51",
+          "originalSha256": "b6f281f708ebf6342840141b6d3785dedfc26be80d59ef09fcfe0fea596cef48"
+        }
+      ]
+    },
+    {
+      "id": "other-27",
+      "title": "QQ好好学习",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/QQ好好学习.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-27.swf",
+          "size": 3048931,
+          "sha256": "2e5ade0226434e0ac237b9ef4a1a0fef268c38aef73a9efd73df3b1d82cdfbd0",
+          "originalSha256": "77535e589d9c07d5c8a198d360479b4addd1ae5d3b8fe3ac557685c9fb1c22e0"
+        }
+      ]
+    },
+    {
+      "id": "other-28",
+      "title": "QQ安全检查站",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/QQ安全检查站.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-28.swf",
+          "size": 992346,
+          "sha256": "ab7be7372e6fd512a2d487db3cdf1b6df3b103a56d02cf15463769d6bd2229d6",
+          "originalSha256": "b75e1a6c57c80d5e84f0bcc769e15105d609e3c71bf126ef8284c98e420f41f8"
+        }
+      ]
+    },
+    {
+      "id": "other-29",
+      "title": "QQ宠物挖矿",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/QQ宠物挖矿.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-29.swf",
+          "size": 1806621,
+          "sha256": "289f1f4973f1a91f67c228d80caa9a148ecbed354b2ca290dd305f8156e9b2ad",
+          "originalSha256": "e7219978f38fa839f94d2c74786c56ab56e4864e0b0a95b4def276e60243a359"
+        }
+      ]
+    },
+    {
+      "id": "other-30",
+      "title": "QQ抓喜鹊",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/QQ抓喜鹊.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-30.swf",
+          "size": 798775,
+          "sha256": "8ba3146682f9108216d3e20b8dfc5e4782ed6a06a35ec99581bd4df872742c63",
+          "originalSha256": "94007c475f91fed70b35b848b7288faf8d7415cd9f0f0b04533bcba03d8fd3c6"
+        }
+      ]
+    },
+    {
+      "id": "other-31",
+      "title": "摊煎饼",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/qyx/Q宠社区：摊煎饼/main_jianbing - 原版.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-31-main.swf",
+          "size": 70824,
+          "sha256": "f88867426366d0d143409ca4a0feaece4bfd73676a7baaebd21a99efe1a7e71c"
+        },
+        {
+          "name": "jianbing.swf",
+          "file": "other-31-jianbing.swf",
+          "size": 431571,
+          "sha256": "7a9316b0cdd0ad779d4e3e6107d90887b187b1ab4cb0a085caa6fdd550869c0c"
+        },
+        {
+          "name": "gameNavigation.xml",
+          "file": "other-31-gameNavigation.xml",
+          "size": 304,
+          "sha256": "ed5de038a6999c42bd2bd8eb84fefb6c0b8f3793761fb5cc386050dffd92bdca"
+        }
+      ]
+    },
+    {
+      "id": "other-32",
+      "title": "QQ狩猎场",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/QQ狩猎场.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-32.swf",
+          "size": 1234227,
+          "sha256": "737f77bc7e74e1ff9e5405fa70fb64d01bb26debf032ade8df2122f193aa46ff",
+          "originalSha256": "37fcd42da2b27846d7688f4f50e7a9c19b827132e59017663082da5707fbabf3"
+        }
+      ]
+    },
+    {
+      "id": "other-33",
+      "title": "QQ穿云",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/QQ穿云.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-33.swf",
+          "size": 2792032,
+          "sha256": "ff639da1b85be48766138cb550edbabf326a9b60fca1e741526a02064cf5104c",
+          "originalSha256": "1f02ce6d9affb433e95c09fd8bcd05653b1cfb9938afa1e04c0cdfe5eeb66da9"
+        }
+      ]
+    },
+    {
+      "id": "other-37",
+      "title": "QQ飞车",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/QQ飞车.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-37.swf",
+          "size": 850866,
+          "sha256": "810776a7d97be9c9999b0d3e52d5c9a650d699bb384c29d0be08f6ef3f49f1cf",
+          "originalSha256": "3e1c4e9a9d9a04b4544285c76211b8c0526df39eab425074eba7b34a8f186c95"
+        }
+      ]
+    },
+    {
+      "id": "other-38",
+      "title": "Q宠保姆",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/Q宠保姆.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-38.swf",
+          "size": 788290,
+          "sha256": "09ef3f292f8de7136b57c606e5f33efa67a9685af0ab2b43ebe612f30e01ffcf",
+          "originalSha256": "5068d5488c397e5a6272c8c8e62ae28db6347780c9178fcfea3dae646fa076bc"
+        }
+      ]
+    },
+    {
+      "id": "other-40",
+      "title": "Q宠爱森林",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/Q宠爱森林.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-40.swf",
+          "size": 1046885,
+          "sha256": "1efcd92466a2b9833d732d95857e90bf2ecbc930b023882fd24167cf0ddc3781",
+          "originalSha256": "cfc82b0fda9e38bf48151af64422d89e904b32a772c7863fc048ca88c5fe1e1b"
+        }
+      ]
+    },
+    {
+      "id": "other-41",
+      "title": "Q宠速配",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/Q宠速配.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-41.swf",
+          "size": 142386,
+          "sha256": "cfe0cf47361a0604f27608761831d07dfa074fc421aee690c60571374687cbfe",
+          "originalSha256": "654f01b4e6a48782ffe10be1750f321e7570d9a96133f1644094017d47b1ab94"
+        }
+      ]
+    },
+    {
+      "id": "other-42",
+      "title": "企鹅玩具店",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/企鹅玩具店.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-42.swf",
+          "size": 2415213,
+          "sha256": "c7ed350898163ede8b0cb903449b424538813331f2329477f6765cdbcbae8953",
+          "originalSha256": "bbeffa364e6f7456049f8cca5a9746c3e7a52017cd886b182290b79d0fad38ef"
+        }
+      ]
+    },
+    {
+      "id": "other-43",
+      "title": "好好学习",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/好好学习.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-43.swf",
+          "size": 3048941,
+          "sha256": "a63751ed87013ba97944aec59ecde908bc321b4a99f419b86fc253726653347b",
+          "originalSha256": "3817fbebefeda21abbe1192fccfc301e0ca1f77e1cfd88a3f3acd7e70b974566"
+        }
+      ]
+    },
+    {
+      "id": "other-44",
+      "title": "宠爱QQ堂",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/宠爱QQ堂.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-44.swf",
+          "size": 841648,
+          "sha256": "179238ad1b0377ff79144770e46d67a94e7512eaaa149f443c3b5d89a73fa0b2",
+          "originalSha256": "a802c4ae182cac40cf7d76806e34ea023807ca9b316489e4e372ed0327ab9db0"
+        }
+      ]
+    },
+    {
+      "id": "other-45",
+      "title": "高空清洁员",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/社区/新建文件夹/高空清洁员.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "other-45.swf",
+          "size": 785003,
+          "sha256": "77b9c51a6cf4263678cc8351d88b0c4f9d83f74d3aa1b4390ce3b6236ccd1b28",
+          "originalSha256": "03e8314dae08f8b82d0ca17946ec304fd45543030eb17ae7ebad37d6b1b79595"
+        }
+      ]
+    },
+    {
+      "id": "qyx-sandwich",
+      "title": "三明治",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/qyx/Q宠社区：三明治/main_mxz_08.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "qyx-sandwich-main.swf",
+          "size": 107395,
+          "sha256": "337480aa1cce85489ead651fc3887fa514625be8375150fa197b90a815a980f4"
+        },
+        {
+          "name": "mxz_08.swf",
+          "file": "qyx-sandwich-mxz_08.swf",
+          "size": 839521,
+          "sha256": "bd2f302981ffd73033ae569108a9cfa25c569adf1f0d2684a46033bcde3765c7"
+        },
+        {
+          "name": "gameNavigation.xml",
+          "file": "qyx-sandwich-gameNavigation.xml",
+          "size": 304,
+          "sha256": "ed5de038a6999c42bd2bd8eb84fefb6c0b8f3793761fb5cc386050dffd92bdca"
+        }
+      ]
+    },
+    {
+      "id": "qyx-river",
+      "title": "企鹅过河",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/qyx/Q宠社区：企鹅过河/kof1iou - 原版.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "qyx-river-main.swf",
+          "size": 672000,
+          "sha256": "f9e2901315c33172aa5c91760bfcac3ee9fe02c80999c5b3dcca6675368c8f42"
+        },
+        {
+          "name": "gameNavigation.xml",
+          "file": "qyx-river-gameNavigation.xml",
+          "size": 304,
+          "sha256": "ed5de038a6999c42bd2bd8eb84fefb6c0b8f3793761fb5cc386050dffd92bdca"
+        }
+      ]
+    },
+    {
+      "id": "qyx-mission",
+      "title": "无尽任务",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/qyx/Q宠社区：无尽任务/mession.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "qyx-mission-main.swf",
+          "size": 2139807,
+          "sha256": "f2032993109af3fcd2d72d0b912814255829b1f78bc9adc46052946a33608417"
+        },
+        {
+          "name": "gameNavigation.xml",
+          "file": "qyx-mission-gameNavigation.xml",
+          "size": 304,
+          "sha256": "ed5de038a6999c42bd2bd8eb84fefb6c0b8f3793761fb5cc386050dffd92bdca"
+        }
+      ]
+    },
+    {
+      "id": "qyx-fruit",
+      "title": "水果大亨",
+      "group": "other",
+      "minLevel": 1,
+      "sex": null,
+      "source": "补充/游戏补充/qyx/Q宠社区：水果大亨20240207/ezhhn8s.swf",
+      "files": [
+        {
+          "name": "main.swf",
+          "file": "qyx-fruit-main.swf",
+          "size": 965758,
+          "sha256": "99c4d96b557dc71dd1accd6ad01093d009d442506d9649eaba9a67e45e25e659"
+        },
+        {
+          "name": "gameNavigation.xml",
+          "file": "qyx-fruit-gameNavigation.xml",
+          "size": 304,
+          "sha256": "ed5de038a6999c42bd2bd8eb84fefb6c0b8f3793761fb5cc386050dffd92bdca"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "defaultPrice": 200,
+  "backgrounds": [
+    {
+      "resourceId": 23004,
+      "name": "森林小屋",
+      "price": 200,
+      "goodsHex": "dc59000000000000",
+      "sceneSha256": "c40d9647e185bd3c36fa65e871539342942a4f3d4b1e86f3de30e885594e81d8"
+    },
+    {
+      "resourceId": 23007,
+      "name": "温馨木屋",
+      "price": 200,
+      "goodsHex": "df59000000000000",
+      "sceneSha256": "3eab325d14fcafadfdfb3359de1f37354ec80f75a46607fe85d8250e24273d57"
+    },
+    {
+      "resourceId": 23008,
+      "name": "树梢乐园",
+      "price": 200,
+      "goodsHex": "e059000000000000",
+      "sceneSha256": "b575238575bd59a85be81e3a186caddd2bc4ba73d5873ecc8e92f8714f2a954f"
+    },
+    {
+      "resourceId": 23012,
+      "name": "精灵花园",
+      "price": 200,
+      "goodsHex": "e459000000000000",
+      "sceneSha256": "991b27e432cdb7f12d81a0ed8f6ea9dc1e3dd3943061db7b4339c5c6a03dba79"
+    },
+    {
+      "resourceId": 23013,
+      "name": "童趣乐园",
+      "price": 200,
+      "goodsHex": "e559000000000000",
+      "sceneSha256": "a544ead937bcc836e94b1dd1898d3bc2e5fb571dc4d7fb993016234fcf19d3d2"
+    },
+    {
+      "resourceId": 23014,
+      "name": "星空舞台",
+      "price": 200,
+      "goodsHex": "e659000000000000",
+      "sceneSha256": "0428aa826228a073f916cc8c1c46ac00f8e8d68eb0987a65928aa2977e59ad1d"
+    },
+    {
+      "resourceId": 23015,
+      "name": "夏日海滩",
+      "price": 200,
+      "goodsHex": "e759000000000000",
+      "sceneSha256": "79da44b3a001bc5e8aec62555b3cd9592d5e6a2c006095e1ed786e43f0275251"
+    },
+    {
+      "resourceId": 23016,
+      "name": "魔法小屋",
+      "price": 200,
+      "goodsHex": "e859000000000000",
+      "sceneSha256": "0f049764576cbd0b47caea48e7eec08773921acaa4c602ca5055528a5af3bc0b"
+    },
+    {
+      "resourceId": 23017,
+      "name": "水晶宫殿",
+      "price": 200,
+      "goodsHex": "e959000000000000",
+      "sceneSha256": "58dca81f8d6b527ed1f4445513e2b910e62818389a8bcc449ba10e5b8b6032b8"
+    }
+  ],
+  "resources": [
+    {
+      "file": "23004.jpg",
+      "target": "/gameplay/backgrounds/23004.jpg",
+      "size": 89825,
+      "sha256": "dea2c22b0c440a4b8450b70e8bbfbf2e19666c10ba0a73d5b41fe89b51b968cc",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23004.zip",
+      "target": "/common/23004.zip",
+      "size": 101934,
+      "sha256": "18ce4b1a05eee3d5587769f487e09684b3c854ee2eb1835791882e41050e2e68",
+      "contentType": "application/zip"
+    },
+    {
+      "file": "23007.jpg",
+      "target": "/gameplay/backgrounds/23007.jpg",
+      "size": 52408,
+      "sha256": "e728219d8c7167c2fb74f84fef28d1c383451267fa87aefe148343e356c0c354",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23007.zip",
+      "target": "/common/23007.zip",
+      "size": 56147,
+      "sha256": "9554c0531db0c16fb7a94be0227914e6e89e5209d2ae5b4f830d08ec361dc9f2",
+      "contentType": "application/zip"
+    },
+    {
+      "file": "23008.jpg",
+      "target": "/gameplay/backgrounds/23008.jpg",
+      "size": 55310,
+      "sha256": "3f260c533638c5cc70f94cd889c41c329d1e59a0cbfad38ec804368074da81b8",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23008.zip",
+      "target": "/common/23008.zip",
+      "size": 59375,
+      "sha256": "c3c7042cfda1a0ea1bc643228cea099b83b7c7f1f5318555087d2c9499872623",
+      "contentType": "application/zip"
+    },
+    {
+      "file": "23010.jpg",
+      "target": "/gameplay/backgrounds/23010.jpg",
+      "size": 91373,
+      "sha256": "01e68755660f83a7099e8636404204ce347d4444a39766a334c233692f4d8cf3",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23012.jpg",
+      "target": "/gameplay/backgrounds/23012.jpg",
+      "size": 82367,
+      "sha256": "200487589cfa6780ab75c1d1ec9e63341c7166c320b5017c949c7d431c4f2e50",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23012.zip",
+      "target": "/common/23012.zip",
+      "size": 97084,
+      "sha256": "a553df7bf4ed33fa06001ded7d8985392308729973491b55609068142dc770ee",
+      "contentType": "application/zip"
+    },
+    {
+      "file": "23013.jpg",
+      "target": "/gameplay/backgrounds/23013.jpg",
+      "size": 84662,
+      "sha256": "5652225083ce66d049d32d4529c8d5e24b1762b49e31afc2310f460fed5a8b01",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23013.zip",
+      "target": "/common/23013.zip",
+      "size": 89309,
+      "sha256": "7707b4b694b0551587adf6ecedd8bd254f4c5bee8e80d3f9065ef3a889e9ff6d",
+      "contentType": "application/zip"
+    },
+    {
+      "file": "23014.jpg",
+      "target": "/gameplay/backgrounds/23014.jpg",
+      "size": 77158,
+      "sha256": "7928ee50a85f59e818b6d044482305d875862cd503c32d01cc3544094fa2959b",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23014.zip",
+      "target": "/common/23014.zip",
+      "size": 84200,
+      "sha256": "f16a0ce722bb7c8987fea712962d759c5ab43016a61d94ffcf95e4d6fe6ca311",
+      "contentType": "application/zip"
+    },
+    {
+      "file": "23015.jpg",
+      "target": "/gameplay/backgrounds/23015.jpg",
+      "size": 72928,
+      "sha256": "6025853d92c4d191716a319632b84f62d3081c03c1f92d3a38f87fd93a29c9ca",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23015.zip",
+      "target": "/common/23015.zip",
+      "size": 77124,
+      "sha256": "5716d94a956f0f6440796ecdb276814dd0752600b8495e320191f1d270817849",
+      "contentType": "application/zip"
+    },
+    {
+      "file": "23016.jpg",
+      "target": "/gameplay/backgrounds/23016.jpg",
+      "size": 93781,
+      "sha256": "8ab121ffab4b0fa1dd3e3fc9f004da994872ac166a18e0b1dd5e42355f7fc4bb",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23016.zip",
+      "target": "/common/23016.zip",
+      "size": 102568,
+      "sha256": "f5d3dbb67f2a6e068b3d4dd4f3105d7d0816bf2b4ff8184fc6fd95b9a5b0a122",
+      "contentType": "application/zip"
+    },
+    {
+      "file": "23017.jpg",
+      "target": "/gameplay/backgrounds/23017.jpg",
+      "size": 85446,
+      "sha256": "cbbf4ad1f4425db7b280442b587a39012f5fd04176f958376c804450e961c5e0",
+      "contentType": "image/jpeg"
+    },
+    {
+      "file": "23017.zip",
+      "target": "/common/23017.zip",
+      "size": 98226,
+      "sha256": "96b49d7401c0837e5117c9495c9514753328cda592541bfb8c9e5770bb701cce",
+      "contentType": "application/zip"
+    }
+  ],
+  "sources": [
+    {
+      "source": "补充/家园/common/23004/22.png",
+      "sha256": "ac2ca5a7f43d4e9bf659bcc5db5f7bdfd3c6457f495a2a22e157887461bdf609",
+      "size": 3495
+    },
+    {
+      "source": "补充/家园/common/23004/23.png",
+      "sha256": "0def62c943a79e72fee866f1ec2c0aed1b19f1017533afe2d992f28f2f9f7365",
+      "size": 4395
+    },
+    {
+      "source": "补充/家园/common/23004/29.png",
+      "sha256": "5ea595713efdec1119f190e033519b6b42798a123a451ea637400eb5ae66d1a2",
+      "size": 3305
+    },
+    {
+      "source": "补充/家园/common/23004/scene.swf",
+      "sha256": "c40d9647e185bd3c36fa65e871539342942a4f3d4b1e86f3de30e885594e81d8",
+      "size": 90314
+    },
+    {
+      "source": "补充/家园/common/23007/21.png",
+      "sha256": "404247325d0b17d06773a291be1d3592e92eca7afbb5c364705abb5b41ef82d8",
+      "size": 3828
+    },
+    {
+      "source": "补充/家园/common/23007/scene.swf",
+      "sha256": "3eab325d14fcafadfdfb3359de1f37354ec80f75a46607fe85d8250e24273d57",
+      "size": 52090
+    },
+    {
+      "source": "补充/家园/common/23008/22.png",
+      "sha256": "ac2ca5a7f43d4e9bf659bcc5db5f7bdfd3c6457f495a2a22e157887461bdf609",
+      "size": 3495
+    },
+    {
+      "source": "补充/家园/common/23008/scene.swf",
+      "sha256": "b575238575bd59a85be81e3a186caddd2bc4ba73d5873ecc8e92f8714f2a954f",
+      "size": 55651
+    },
+    {
+      "source": "补充/家园/common/23010/21.png",
+      "sha256": "404247325d0b17d06773a291be1d3592e92eca7afbb5c364705abb5b41ef82d8",
+      "size": 3828
+    },
+    {
+      "source": "补充/家园/common/23010/scene.swf",
+      "sha256": "ddd79b0b3b2abe71954c8df08fd73aed114af052b6b3aa6d8583ff71cc8a6fa0",
+      "size": 91485
+    },
+    {
+      "source": "补充/家园/common/23012/21.png",
+      "sha256": "f2419b6df4f7571348970e3cd0c14f083b7c2ad67c222c77be060d603d21b01a",
+      "size": 4360
+    },
+    {
+      "source": "补充/家园/common/23012/23.png",
+      "sha256": "0def62c943a79e72fee866f1ec2c0aed1b19f1017533afe2d992f28f2f9f7365",
+      "size": 4395
+    },
+    {
+      "source": "补充/家园/common/23012/28.png",
+      "sha256": "47867abd7932b71163c90f3dede37061f3e2e7487d55821a730b9a0a3c7dce6f",
+      "size": 5405
+    },
+    {
+      "source": "补充/家园/common/23012/scene.swf",
+      "sha256": "991b27e432cdb7f12d81a0ed8f6ea9dc1e3dd3943061db7b4339c5c6a03dba79",
+      "size": 82499
+    },
+    {
+      "source": "补充/家园/common/23013/23.png",
+      "sha256": "0def62c943a79e72fee866f1ec2c0aed1b19f1017533afe2d992f28f2f9f7365",
+      "size": 4395
+    },
+    {
+      "source": "补充/家园/common/23013/scene.swf",
+      "sha256": "a544ead937bcc836e94b1dd1898d3bc2e5fb571dc4d7fb993016234fcf19d3d2",
+      "size": 84675
+    },
+    {
+      "source": "补充/家园/common/23014/22.png",
+      "sha256": "ac2ca5a7f43d4e9bf659bcc5db5f7bdfd3c6457f495a2a22e157887461bdf609",
+      "size": 3495
+    },
+    {
+      "source": "补充/家园/common/23014/25.png",
+      "sha256": "eaf3ad8c7f180f61e9a263af37856e1908ed876c673237c9a6214e97a647c78e",
+      "size": 2938
+    },
+    {
+      "source": "补充/家园/common/23014/scene.swf",
+      "sha256": "0428aa826228a073f916cc8c1c46ac00f8e8d68eb0987a65928aa2977e59ad1d",
+      "size": 77443
+    },
+    {
+      "source": "补充/家园/common/23015/22.png",
+      "sha256": "ac2ca5a7f43d4e9bf659bcc5db5f7bdfd3c6457f495a2a22e157887461bdf609",
+      "size": 3495
+    },
+    {
+      "source": "补充/家园/common/23015/scene.swf",
+      "sha256": "79da44b3a001bc5e8aec62555b3cd9592d5e6a2c006095e1ed786e43f0275251",
+      "size": 73395
+    },
+    {
+      "source": "补充/家园/common/23016/22.png",
+      "sha256": "ac2ca5a7f43d4e9bf659bcc5db5f7bdfd3c6457f495a2a22e157887461bdf609",
+      "size": 3495
+    },
+    {
+      "source": "补充/家园/common/23016/23.png",
+      "sha256": "0def62c943a79e72fee866f1ec2c0aed1b19f1017533afe2d992f28f2f9f7365",
+      "size": 4395
+    },
+    {
+      "source": "补充/家园/common/23016/scene.swf",
+      "sha256": "0f049764576cbd0b47caea48e7eec08773921acaa4c602ca5055528a5af3bc0b",
+      "size": 94346
+    },
+    {
+      "source": "补充/家园/common/23017/22.png",
+      "sha256": "ac2ca5a7f43d4e9bf659bcc5db5f7bdfd3c6457f495a2a22e157887461bdf609",
+      "size": 3495
+    },
+    {
+      "source": "补充/家园/common/23017/23.png",
+      "sha256": "0def62c943a79e72fee866f1ec2c0aed1b19f1017533afe2d992f28f2f9f7365",
+      "size": 4395
+    },
+    {
+      "source": "补充/家园/common/23017/30.png",
+      "sha256": "54c43aa3bec92d23a907cc4ac7185afec3c5fe58285a37b78e0a21d96ccfcb3e",
+      "size": 3928
+    },
+    {
+      "source": "补充/家园/common/23017/scene.swf",
+      "sha256": "58dca81f8d6b527ed1f4445513e2b910e62818389a8bcc449ba10e5b8b6032b8",
+      "size": 85983
+    }
+  ],
+  "previewSource": "Unmodified DefineBitsJPEG2 image bytes from each supplied scene.swf",
+  "nameSource": "Local display names describing the supplied scenes; original names and prices are not established"
+}
